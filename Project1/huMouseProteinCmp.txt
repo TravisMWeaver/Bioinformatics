@@ -1,0 +1,219 @@
+-----Initial Input-----
+Human Protein ID: STAU1
+Protein Sequence: Seq('MSQVQVQVQNPSAALSGSQILNKNQSLLSQPLMSIPSTTSSLPSENAGRPIQNS...GRC', SingleLetterAlphabet())
+Length: 577
+
+*****Alignment Starts Here*****
+
+Sequence: gi|6755674|ref|NP_035620.1| double-stranded RNA-binding protein Staufen homolog 1 isoform 3 [Mus musculus] >gi|9789804|sp|Q9Z108.1|STAU1_MOUSE RecName: Full=Double-stranded RNA-binding protein Staufen homolog 1 >gi|4335945|gb|AAD17529.1| RNA-binding protein staufen [Mus musculus] >gi|148674545|gb|EDL06492.1| staufen (RNA binding protein) homolog 1 (Drosophila), isoform CRA_b [Mus musculus]
+Length: 487
+E Value: 0.0
+Raw Score: 2383.0
+Bitscore: 922.539
+Query Sequence: MYKPVDPYSRMQSTYNYNMRGGAYPPRYFYPFPVPPLLYQVELSVGGQQFNGKGKTRQAAKHDAAAKALRILQNE...
+Match Sequence: MYKPVDP+SRMQSTY+Y MRGGAYPPRYFYPFPVPPLLYQVELSVGGQQFNGKGK R   KHDA A+ALR LQ+E...
+Subject Sequence: MYKPVDPHSRMQSTYSYGMRGGAYPPRYFYPFPVPPLLYQVELSVGGQQFNGKGKMRPPVKHDAPARALRTLQSE...
+
+
+*****Alignment Starts Here*****
+
+Sequence: gi|6755674|ref|NP_035620.1| double-stranded RNA-binding protein Staufen homolog 1 isoform 3 [Mus musculus] >gi|9789804|sp|Q9Z108.1|STAU1_MOUSE RecName: Full=Double-stranded RNA-binding protein Staufen homolog 1 >gi|4335945|gb|AAD17529.1| RNA-binding protein staufen [Mus musculus] >gi|148674545|gb|EDL06492.1| staufen (RNA binding protein) homolog 1 (Drosophila), isoform CRA_b [Mus musculus]
+Length: 487
+E Value: 0.000210095
+Raw Score: 65.0
+Bitscore: 29.6462
+Query Sequence: LPS--ENAGRPIQNSALPSASITSTSAAAESITPTVELNALCMKLGKKPMYKPVDPYSRMQSTYNYNMRGGAYPP...
+Match Sequence: LP   E  GR  +   L  + I+     A  +   + +N    +    P  K            N+  R      ...
+Subject Sequence: LPERLEVNGREAEEENLNKSEISQVFEIA--LKRNLPVNFEVARESGPPHMK------------NFVTR------...
+
+-----Initial Input-----
+Human Protein ID: NRAS
+Protein Sequence: Seq('MTEYKLVVVGAGGVGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGETCLLD...VVM', SingleLetterAlphabet())
+Length: 189
+
+*****Alignment Starts Here*****
+
+Sequence: gi|111154109|ref|NP_035067.2| GTPase NRas precursor [Mus musculus] >gi|568922041|ref|XP_006501183.1| PREDICTED: GTPase NRas isoform X2 [Mus musculus] >gi|568922043|ref|XP_006501184.1| PREDICTED: GTPase NRas isoform X2 [Mus musculus] >gi|568922045|ref|XP_006501185.1| PREDICTED: GTPase NRas isoform X2 [Mus musculus] >gi|568922047|ref|XP_006501186.1| PREDICTED: GTPase NRas isoform X2 [Mus musculus] >gi|12847999|dbj|BAB27790.1| unnamed protein product [Mus musculus] >gi|37589150|gb|AAH58755.1| Neuroblastoma ras oncogene [Mus musculus] >gi|68144543|gb|AAH51443.1| Neuroblastoma ras oncogene [Mus musculus] >gi|148675657|gb|EDL07604.1| neuroblastoma ras oncogene [Mus musculus]
+Length: 189
+E Value: 2.37561e-146
+Raw Score: 1005.0
+Bitscore: 391.734
+Query Sequence: MTEYKLVVVGAGGVGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGETCLLDILDTAGQEEYSAMRDQYMRTG...
+Match Sequence: MTEYKLVVVGAGGVGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGETCLLDILDTAGQEEYSAMRDQYMRTG...
+Subject Sequence: MTEYKLVVVGAGGVGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGETCLLDILDTAGQEEYSAMRDQYMRTG...
+
+-----Initial Input-----
+Human Protein ID: HRAS
+Protein Sequence: Seq('MTEYKLVVVGAGGVGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGETCLLD...VLS', SingleLetterAlphabet())
+Length: 189
+
+*****Alignment Starts Here*****
+
+Sequence: gi|4885425|ref|NP_005334.1| GTPase HRas isoform 1 [Homo sapiens] >gi|194363762|ref|NP_001123914.1| GTPase HRas isoform 1 [Homo sapiens] >gi|194363764|ref|NP_001123915.1| GTPase HRas isoform 1 [Mus musculus] >gi|194394148|ref|NP_001091711.1| GTPase HRas precursor [Rattus norvegicus] >gi|194394150|ref|NP_001123913.1| GTPase HRas precursor [Rattus norvegicus] >gi|194440734|ref|NP_032310.2| GTPase HRas isoform 1 [Mus musculus] >gi|388454300|ref|NP_001253350.1| GTPase HRas [Macaca mulatta] >gi|296219126|ref|XP_002755736.1| PREDICTED: GTPase HRas isoform X1 [Callithrix jacchus] >gi|297687752|ref|XP_002821367.1| PREDICTED: GTPase HRas [Pongo abelii] >gi|524919987|ref|XP_005064275.1| PREDICTED: GTPase HRas [Mesocricetus auratus] >gi|532015585|ref|XP_005351557.1| PREDICTED: GTPase HRas [Microtus ochrogaster] >gi|532114004|ref|XP_005341674.1| PREDICTED: GTPase HRas isoform X2 [Ictidomys tridecemlineatus] >gi|544483350|ref|XP_005576789.1| PREDICTED: GTPase HRas isoform X1 [Macaca fascicularis] >gi|589928899|ref|XP_006977267.1| PREDICTED: GTPase HRas [Peromyscus maniculatus bairdii] >gi|625216348|ref|XP_007648571.1| PREDICTED: GTPase HRas isoform X1 [Cricetulus griseus] >gi|635010941|ref|XP_008016433.1| PREDICTED: GTPase HRas isoform X1 [Chlorocebus sabaeus] >gi|640782541|ref|XP_008046914.1| PREDICTED: GTPase HRas isoform X5 [Carlito syrichta] >gi|640782543|ref|XP_008046915.1| PREDICTED: GTPase HRas isoform X5 [Carlito syrichta] >gi|674089268|ref|XP_008852607.1| PREDICTED: GTPase HRas isoform X1 [Nannospalax galili] >gi|675683864|ref|XP_008975852.1| PREDICTED: GTPase HRas isoform X1 [Pan paniscus] >gi|675704084|ref|XP_009007028.1| PREDICTED: GTPase HRas isoform X1 [Callithrix jacchus] >gi|685584224|ref|XP_009183458.1| PREDICTED: GTPase HRas isoform X1 [Papio anubis] >gi|724796293|ref|XP_010352136.1| PREDICTED: GTPase HRas isoform X1 [Rhinopithecus roxellana] >gi|725605795|ref|XP_010329501.1| PREDICTED: GTPase HRas isoform X1 [Saimiri boliviensis boliviensis] >gi|731251582|ref|XP_010638626.1| PREDICTED: GTPase HRas [Fukomys damarensis] >gi|731251584|ref|XP_010638628.1| PREDICTED: GTPase HRas [Fukomys damarensis] >gi|755523867|ref|XP_006536222.2| PREDICTED: GTPase HRas isoform X1 [Mus musculus] >gi|795208275|ref|XP_011849201.1| PREDICTED: GTPase HRas isoform X1 [Mandrillus leucophaeus] >gi|795208282|ref|XP_011849202.1| PREDICTED: GTPase HRas isoform X1 [Mandrillus leucophaeus] >gi|795357007|ref|XP_011785378.1| PREDICTED: GTPase HRas isoform X1 [Colobus angolensis palliatus] >gi|795357013|ref|XP_011785379.1| PREDICTED: GTPase HRas isoform X1 [Colobus angolensis palliatus] >gi|795430532|ref|XP_011760577.1| PREDICTED: GTPase HRas isoform X1 [Macaca nemestrina] >gi|795498502|ref|XP_011896347.1| PREDICTED: GTPase HRas isoform X2 [Cercocebus atys] >gi|817282643|ref|XP_012311497.1| PREDICTED: GTPase HRas isoform X1 [Aotus nancymaae] >gi|817282645|ref|XP_012311498.1| PREDICTED: GTPase HRas isoform X1 [Aotus nancymaae] >gi|852798792|ref|XP_012888857.1| PREDICTED: GTPase HRas isoform X2 [Dipodomys ordii] >gi|852798795|ref|XP_012888858.1| PREDICTED: GTPase HRas isoform X2 [Dipodomys ordii] >gi|966983023|ref|XP_014968663.1| PREDICTED: GTPase HRas isoform X1 [Macaca mulatta] >gi|984133833|ref|XP_015358890.1| PREDICTED: GTPase HRas isoform X2 [Marmota marmota marmota] >gi|1032930122|ref|XP_016820822.1| PREDICTED: GTPase HRas isoform X3 [Cricetulus griseus] >gi|1034085846|ref|XP_016775457.1| PREDICTED: GTPase HRas isoform X1 [Pan troglodytes] >gi|1034085848|ref|XP_009457906.2| PREDICTED: GTPase HRas isoform X1 [Pan troglodytes] >gi|1044423758|ref|XP_017363369.1| PREDICTED: GTPase HRas isoform X1 [Cebus capucinus imitator] >gi|1044423760|ref|XP_017363370.1| PREDICTED: GTPase HRas isoform X1 [Cebus capucinus imitator] >gi|1044423762|ref|XP_017363371.1| PREDICTED: GTPase HRas isoform X1 [Cebus capucinus imitator] >gi|1059186575|ref|XP_017749507.1| PREDICTED: GTPase HRas isoform X1 [Rhinopithecus bieti] >gi|1059186577|ref|XP_017749508.1| PREDICTED: GTPase HRas isoform X1 [Rhinopithecus bieti] >gi|1059186579|ref|XP_017749509.1| PREDICTED: GTPase HRas isoform X1 [Rhinopithecus bieti] >gi|1060530879|ref|XP_017803605.1| PREDICTED: GTPase HRas isoform X1 [Papio anubis] >gi|1060530881|ref|XP_017803606.1| PREDICTED: GTPase HRas isoform X1 [Papio anubis] >gi|131869|sp|P01112.1|RASH_HUMAN RecName: Full=GTPase HRas; AltName: Full=H-Ras-1; AltName: Full=Ha-Ras; AltName: Full=Transforming protein p21; AltName: Full=c-H-ras; AltName: Full=p21ras; Contains: RecName: Full=GTPase HRas, N-terminally processed; Flags: Precursor >gi|341941795|sp|Q61411.2|RASH_MOUSE RecName: Full=GTPase HRas; AltName: Full=H-Ras-1; AltName: Full=Transforming protein p21; AltName: Full=c-H-ras; AltName: Full=p21ras; Contains: RecName: Full=GTPase HRas, N-terminally processed; Flags: Precursor >gi|341941798|sp|P20171.2|RASH_RAT RecName: Full=GTPase HRas; AltName: Full=H-Ras-1; AltName: Full=Transforming protein p21; AltName: Full=c-H-ras; AltName: Full=p21ras; Contains: RecName: Full=GTPase HRas, N-terminally processed; Flags: Precursor >gi|157836990|pdb|4Q21|A Chain A, Molecular Switch For Signal Transduction: Structural Differences Between Active And Inactive Forms Of Protooncogenic Ras Proteins >gi|20147725|gb|AAM12630.1|AF493916_1 Ras family small GTP binding protein H-Ras [Homo sapiens] >gi|190891|gb|AAB02605.1| c-Ha-ras1 p21 protein [Homo sapiens] >gi|21040217|dbj|BAB88314.1| c-Ha-ras p21 protein [synthetic construct] >gi|21040218|dbj|BAB88315.1| c-Ha-ras p21 protein [synthetic construct] >gi|21040219|dbj|BAB88316.1| c-Ha-ras p21 protein [synthetic construct] >gi|34732779|gb|AAQ81319.1| HRAS1 [Mus musculus] >gi|49168642|emb|CAG38816.1| HRAS [Homo sapiens] >gi|49457536|emb|CAG47067.1| HRAS, partial [Homo sapiens] >gi|54695712|gb|AAV38228.1| v-Ha-ras Harvey rat sarcoma viral oncogene homolog [Homo sapiens] >gi|60816024|gb|AAX36367.1| v-Ha-ras Harvey rat sarcoma viral oncogene-like [synthetic construct] >gi|61358002|gb|AAX41485.1| v-Ha-ras Harvey rat sarcoma viral oncogene-like [synthetic construct] >gi|61358250|gb|AAX41535.1| v-Ha-ras Harvey rat sarcoma viral oncogene-like [synthetic construct] >gi|66267608|gb|AAH95471.1| V-Ha-ras Harvey rat sarcoma viral oncogene homolog [Homo sapiens] >gi|119622742|gb|EAX02337.1| v-Ha-ras Harvey rat sarcoma viral oncogene homolog, isoform CRA_a [Homo sapiens] >gi|119622744|gb|EAX02339.1| v-Ha-ras Harvey rat sarcoma viral oncogene homolog, isoform CRA_a [Homo sapiens] >gi|119622745|gb|EAX02340.1| v-Ha-ras Harvey rat sarcoma viral oncogene homolog, isoform CRA_a [Homo sapiens] >gi|119622746|gb|EAX02341.1| v-Ha-ras Harvey rat sarcoma viral oncogene homolog, isoform CRA_a [Homo sapiens] >gi|148686061|gb|EDL18008.1| Harvey rat sarcoma virus oncogene 1, isoform CRA_b [Mus musculus] >gi|148686062|gb|EDL18009.1| Harvey rat sarcoma virus oncogene 1, isoform CRA_b [Mus musculus] >gi|149061564|gb|EDM11987.1| rCG48194, isoform CRA_a [Rattus norvegicus] >gi|149061565|gb|EDM11988.1| rCG48194, isoform CRA_a [Rattus norvegicus] >gi|197692373|dbj|BAG70150.1| v-Ha-ras Harvey rat sarcoma viral oncogene homolog isoform 1 [Homo sapiens] >gi|197692671|dbj|BAG70299.1| v-Ha-ras Harvey rat sarcoma viral oncogene homolog isoform 1, partial [Homo sapiens] >gi|261858700|dbj|BAI45872.1| v-Ha-ras Harvey rat sarcoma viral oncogene homolog, partial [synthetic construct] >gi|344249426|gb|EGW05530.1| GTPase HRas [Cricetulus griseus] >gi|355566150|gb|EHH22529.1| Transforming protein p21 [Macaca mulatta] >gi|537204387|gb|ERE79692.1| GTPase HRas-like protein [Cricetulus griseus] >gi|608785341|gb|AHW56507.1| Harvey rat sarcoma viral oncoprotein isoform A, partial [Homo sapiens] >gi|608785343|gb|AHW56508.1| Harvey rat sarcoma viral oncoprotein isoform A, partial [Homo sapiens] >gi|676271328|gb|KFO26387.1| GTPase HRas [Fukomys damarensis]
+Length: 189
+E Value: 7.68452e-147
+Raw Score: 1010.0
+Bitscore: 393.66
+Query Sequence: MTEYKLVVVGAGGVGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGETCLLDILDTAGQEEYSAMRDQYMRTG...
+Match Sequence: MTEYKLVVVGAGGVGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGETCLLDILDTAGQEEYSAMRDQYMRTG...
+Subject Sequence: MTEYKLVVVGAGGVGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGETCLLDILDTAGQEEYSAMRDQYMRTG...
+
+-----Initial Input-----
+Human Protein ID: SLC30A10
+Protein Sequence: Seq('MGRYSGKTCRLLFMLVLTVAFFVAELVSGYLGNSIALLSDSFNMFSDLISLCVG...THF', SingleLetterAlphabet())
+Length: 496
+
+*****Alignment Starts Here*****
+
+Sequence: gi|84794621|ref|NP_001028458.1| zinc transporter 10 [Mus musculus] >gi|123788615|sp|Q3UVU3.1|ZNT10_MOUSE RecName: Full=Zinc transporter 10; Short=ZnT-10; AltName: Full=Solute carrier family 30 member 10 >gi|74205369|dbj|BAE23176.1| unnamed protein product [Mus musculus] >gi|157169784|gb|AAI52751.1| Solute carrier family 30, member 10, partial [synthetic construct]
+Length: 470
+E Value: 0.0
+Raw Score: 1895.0
+Bitscore: 734.561
+Query Sequence: MGRYSGKTCRLLFMLVLTVAFFVAELVSGYLGNSIALLSDSFNMFSDLISLCVGLSAGYIARRPTRGFSATYGYA...
+Match Sequence: MGRYSGKTCRLLFMLVLT AFFVAELVSGYLGNSIALLSDSFNM SDLISLCVGL +GYIARR  RG SATYGY ...
+Subject Sequence: MGRYSGKTCRLLFMLVLTAAFFVAELVSGYLGNSIALLSDSFNMLSDLISLCVGLGSGYIARRGPRGSSATYGYV...
+
+-----Initial Input-----
+Human Protein ID: CTSV
+Protein Sequence: Seq('MNLSLVLAAFCLGIASAVPKFDQNLDTKWYQWKATHRRLYGANEEGWRRAVWEK...PNV', SingleLetterAlphabet())
+Length: 334
+
+*****Alignment Starts Here*****
+
+Sequence: gi|74142447|dbj|BAE31977.1| unnamed protein product [Mus musculus]
+Length: 334
+E Value: 0.0
+Raw Score: 1346.0
+Bitscore: 523.087
+Query Sequence: MNLSLVLAAFCLGIASAVPKFDQNLDTKWYQWKATHRRLYGANEEGWRRAVWEKNMKMIELHNGEYSQGKHGFTM...
+Match Sequence: MNL L+LA  CLG A A PKFDQ    +W+QWK+THRRLYG NEE WRRA+WEKNM+MI+LHNGEYS G+HGF+M...
+Subject Sequence: MNLLLLLAVLCLGTALATPKFDQTFSAEWHQWKSTHRRLYGTNEEEWRRAIWEKNMRMIQLHNGEYSNGQHGFSM...
+
+-----Initial Input-----
+Human Protein ID: SFRS4
+Protein Sequence: Seq('MPRVYIGRLSYQARERDVERFFKGYGKILEVDLKNGYGFVEFDDLRDADDAVYE...SRS', SingleLetterAlphabet())
+Length: 494
+
+*****Alignment Starts Here*****
+
+Sequence: gi|20978758|sp|Q8VE97.1|SRSF4_MOUSE RecName: Full=Serine/arginine-rich splicing factor 4; AltName: Full=Splicing factor, arginine/serine-rich 4 >gi|18043896|gb|AAH19437.1| Sfrs4 protein [Mus musculus]
+Length: 489
+E Value: 4.43933e-177
+Raw Score: 1273.0
+Bitscore: 494.967
+Query Sequence: MPRVYIGRLSYQARERDVERFFKGYGKILEVDLKNGYGFVEFDDLRDADDAVYELNGKDLCGERVIVEHARGPRR...
+Match Sequence: MPRVYIGRLSYQARERDVERFFKGYGKILEVDLKNGYGFVEFDDLRDADDAVYELNGKDLCGERVIVEHARGPRR...
+Subject Sequence: MPRVYIGRLSYQARERDVERFFKGYGKILEVDLKNGYGFVEFDDLRDADDAVYELNGKDLCGERVIVEHARGPRR...
+
+-----Initial Input-----
+Human Protein ID: GABRG2
+Protein Sequence: Seq('MSSPNIWSTGSSVYSTPVFSQKMTVWILLLLSLYPGFTSQKSDDDYEDYASNKT...LYL', SingleLetterAlphabet())
+Length: 467
+
+*****Alignment Starts Here*****
+
+Sequence: gi|6679915|ref|NP_032099.1| gamma-aminobutyric acid receptor subunit gamma-2 isoform 1 precursor [Mus musculus] >gi|20141351|sp|P22723.3|GBRG2_MOUSE RecName: Full=Gamma-aminobutyric acid receptor subunit gamma-2; AltName: Full=GABA(A) receptor subunit gamma-2; Flags: Precursor >gi|14626496|gb|AAK71573.1|AF233775_1 GABA(A) receptor gamma 2 subunit [Mus musculus] >gi|14626500|gb|AAK71575.1|AF233777_1 GABA(A) receptor gamma 2 subunit [Mus musculus] >gi|14626510|gb|AAK71580.1|AF233782_1 GABA(A) receptor gamma 2 subunit [Mus musculus] >gi|14626514|gb|AAK71582.1|AF233784_1 GABA(A) receptor gamma 2 subunit [Mus musculus] >gi|14626520|gb|AAK71585.1|AF233787_1 GABA(A) receptor gamma 2 subunit [Mus musculus] >gi|14626522|gb|AAK71586.1|AF233788_1 GABA(A) receptor gamma 2 subunit [Mus musculus] >gi|14626524|gb|AAK71587.1|AF233789_1 GABA(A) receptor gamma 2 subunit [Mus musculus] >gi|14626526|gb|AAK71588.1|AF233790_1 GABA(A) receptor gamma 2 subunit [Mus musculus] >gi|14626528|gb|AAK71589.1|AF233791_1 GABA(A) receptor gamma 2 subunit [Mus musculus] >gi|14626536|gb|AAK71593.1|AF233795_1 GABA(A) receptor gamma 2 subunit [Mus musculus] >gi|14626542|gb|AAK71596.1|AF233798_1 GABA(A) receptor gamma 2 subunit [Mus musculus] >gi|14626546|gb|AAK71598.1|AF233800_1 GABA(A) receptor gamma 2 subunit [Mus musculus] >gi|14626548|gb|AAK71599.1|AF233801_1 GABA(A) receptor gamma 2 subunit [Mus musculus] >gi|193404|gb|AAA37653.1| GABA-alpha receptor gamma-2 subunit [Mus musculus] >gi|21619326|gb|AAH31762.1| Gamma-aminobutyric acid (GABA-A) receptor, subunit gamma 2 [Mus musculus] >gi|148700391|gb|EDL32338.1| gamma-aminobutyric acid (GABA-A) receptor, subunit gamma 2, isoform CRA_a [Mus musculus]
+Length: 474
+E Value: 0.0
+Raw Score: 2464.0
+Bitscore: 953.74
+Query Sequence: MSSPNIWSTGSSVYSTPVFSQKMTVWILLLLSLYPGFTSQKSDDDYEDYASNKTWVLTPKVPEGDVTVILNNLLE...
+Match Sequence: MSSPN WS GSSVYS PVFSQKMT+WILLLLSLYPGFTSQKSDDDYEDYASNKTWVLTPKVPEGDVTVILNNLLE...
+Subject Sequence: MSSPNTWSIGSSVYS-PVFSQKMTLWILLLLSLYPGFTSQKSDDDYEDYASNKTWVLTPKVPEGDVTVILNNLLE...
+
+-----Initial Input-----
+Human Protein ID: PCDH1
+Protein Sequence: Seq('MDSGAGGRRCPEAALLILGPPRMEHLRHSPGPGGQRLLLPSMLLALLLLLAPSP...VWE', SingleLetterAlphabet())
+Length: 1060
+
+*****Alignment Starts Here*****
+
+Sequence: gi|569004659|ref|XP_006526383.1| PREDICTED: protocadherin-1 isoform X1 [Mus musculus]
+Length: 1238
+E Value: 0.0
+Raw Score: 4895.0
+Bitscore: 1890.16
+Query Sequence: LLILGPPRMEHLRHSPGPGGQRLLLPSMLLALLLLLAPSPGHATRVVYKVPEEQPPNTLIGSLAADYGFPDVGHL...
+Match Sequence: LLIL P RM  LR SPGPGGQRLLLP +LLALLLLLAPS  H T+VVYKVPEEQPPNTLIGSLAADYG PDVGHL...
+Subject Sequence: LLILEPARMGPLRPSPGPGGQRLLLPPLLLALLLLLAPSASHTTQVVYKVPEEQPPNTLIGSLAADYGLPDVGHL...
+
+-----Initial Input-----
+Human Protein ID: CAMK1G
+Protein Sequence: Seq('MGRKEEDDCSSWKKQTTNIRKTFIFMEVLGSGAFSEVFLVKQRLTGKLFALKCI...LIM', SingleLetterAlphabet())
+Length: 476
+
+*****Alignment Starts Here*****
+
+Sequence: gi|21450191|ref|NP_659066.1| calcium/calmodulin-dependent protein kinase type 1G [Mus musculus] >gi|56404650|sp|Q91VB2.1|KCC1G_MOUSE RecName: Full=Calcium/calmodulin-dependent protein kinase type 1G; AltName: Full=CaM kinase I gamma; Short=CaM kinase IG; Short=CaM-KI gamma; Short=CaMKI gamma; Short=CaMKIG; AltName: Full=CaMK-like CREB kinase III; Short=CLICK III >gi|16755794|gb|AAL28101.1|AF428262_1 calcium/calmodulin-dependent protein kinase I gamma [Mus musculus] >gi|18256867|gb|AAH21840.1| Calcium/calmodulin-dependent protein kinase I gamma [Mus musculus] >gi|30271864|gb|AAP29965.1| CLICK III [Mus musculus] >gi|148680997|gb|EDL12944.1| calcium/calmodulin-dependent protein kinase I gamma, isoform CRA_b [Mus musculus]
+Length: 477
+E Value: 0.0
+Raw Score: 2372.0
+Bitscore: 918.302
+Query Sequence: MGRKEEDDCSSWKKQTTNIRKTFIFMEVLGSGAFSEVFLVKQRLTGKLFALKCIKKSPAFRDSSLENEIAVLKKI...
+Match Sequence: MGRKEE+DCSSWKKQTTNIRKTFIFMEVLGSGAFSEVFLVKQR+TGKLFALKCIKKSPAFRDSSLENEIAVLK+I...
+Subject Sequence: MGRKEEEDCSSWKKQTTNIRKTFIFMEVLGSGAFSEVFLVKQRVTGKLFALKCIKKSPAFRDSSLENEIAVLKRI...
+
+-----Initial Input-----
+Human Protein ID: ADCYAP1
+Protein Sequence: Seq('MLTKRALQKPCSDRFLRTAQINRSRRPVTSVTSGSSSRSRASPHRPLFLSSASL...AYL', SingleLetterAlphabet())
+Length: 315
+
+*****Alignment Starts Here*****
+
+Sequence: gi|6752982|ref|NP_033755.1| pituitary adenylate cyclase-activating polypeptide isoform 1 preproprotein [Mus musculus] >gi|937500806|ref|NP_001302432.1| pituitary adenylate cyclase-activating polypeptide isoform 1 preproprotein [Mus musculus] >gi|13632523|sp|O70176.1|PACA_MOUSE RecName: Full=Pituitary adenylate cyclase-activating polypeptide; Short=PACAP; Contains: RecName: Full=PACAP-related peptide; AltName: Full=PRP-48; Contains: RecName: Full=Pituitary adenylate cyclase-activating polypeptide 27; Short=PACAP-27; Short=PACAP27; Contains: RecName: Full=Pituitary adenylate cyclase-activating polypeptide 38; Short=PACAP-38; Short=PACAP38; Flags: Precursor >gi|3152420|dbj|BAA28355.1| PACAP ligand precursor [Mus musculus] >gi|34785733|gb|AAH57344.1| Adenylate cyclase activating polypeptide 1 [Mus musculus] >gi|74145167|dbj|BAE22234.1| unnamed protein product [Mus musculus] >gi|148706716|gb|EDL38663.1| adenylate cyclase activating polypeptide 1, isoform CRA_a [Mus musculus]
+Length: 175
+E Value: 1.94188e-101
+Raw Score: 722.0
+Bitscore: 282.722
+Query Sequence: MTMCSGARLALLVYGIIMHSSVYSSPAAAGLRFPGIRPEEEAYGEDGNPLPDFDGSEPPGAGSPASAPRAAAAWY...
+Match Sequence: MTMCSGARLALLVYGIIMHSSV  SPAA GL FPGIRPE+EAY +DGNPL DF   +PPG GSPASA R A A Y...
+Subject Sequence: MTMCSGARLALLVYGIIMHSSVSCSPAA-GLSFPGIRPEDEAYDQDGNPLQDFYDWDPPGVGSPASALRDAYALY...
+
+-----Initial Input-----
+Human Protein ID: PPP2R5D
+Protein Sequence: Seq('MPYKLKKEKEPPKVAKCTAKPSSSGKDGGGENTEEAQPQPQPQPQPQAQSQPPS...EAL', SingleLetterAlphabet())
+Length: 602
+
+*****Alignment Starts Here*****
+
+Sequence: gi|33942059|ref|NP_033384.2| serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit delta isoform [Mus musculus] >gi|14669810|dbj|BAB62015.1| protein phosphatase 2A B56delta regulatory subunit [Mus musculus] >gi|14715097|gb|AAH10716.1| Protein phosphatase 2, regulatory subunit B (B56), delta isoform [Mus musculus] >gi|74141162|dbj|BAE35894.1| unnamed protein product [Mus musculus] >gi|74180345|dbj|BAE32340.1| unnamed protein product [Mus musculus] >gi|148691584|gb|EDL23531.1| protein phosphatase 2, regulatory subunit B (B56), delta isoform, isoform CRA_b [Mus musculus] >gi|148691585|gb|EDL23532.1| protein phosphatase 2, regulatory subunit B (B56), delta isoform, isoform CRA_b [Mus musculus]
+Length: 594
+E Value: 0.0
+Raw Score: 3048.0
+Bitscore: 1178.7
+Query Sequence: MPYKLKKEKEPPKVAKCTAKPSSSGKDGGGENTEEAQPQPQPQPQPQAQSQPPSSNKRPSNSTPPPTQLSKIKYS...
+Match Sequence: M YKLKK+KEP K+AK TAKPSSS KDGGGENT+EAQPQPQ        SQ PSSNKRPSNSTPPPTQLSKIKYS...
+Subject Sequence: MSYKLKKDKEPSKLAKGTAKPSSSSKDGGGENTDEAQPQPQ--------SQSPSSNKRPSNSTPPPTQLSKIKYS...
+
+-----Initial Input-----
+Human Protein ID: MLLT3
+Protein Sequence: Seq('MQRAPPFPFMCVSRRRKKCQAQRSLPKPRLPVIHGCLSSPCPQCAVQVKLELGH...GTS', SingleLetterAlphabet())
+Length: 607
+
+*****Alignment Starts Here*****
+
+Sequence: gi|13507268|gb|AAK28536.1|AF333960_1 AF9, partial [Mus musculus]
+Length: 560
+E Value: 0.0
+Raw Score: 2799.0
+Bitscore: 1082.78
+Query Sequence: KLELGHRAQVRKKPTVEGFTHDWMVFVRGPEHSNIQHFVEKVVFHLHESFPRPKRVCKDPPYKVEESGYAGFILP...
+Match Sequence: KLELGHRAQVRKKPTVEGFTHDWMVFVRGPEHSNIQHFVEKVVFHLHESFPRPKRVCKDPPYKVEESGYAGFILP...
+Subject Sequence: KLELGHRAQVRKKPTVEGFTHDWMVFVRGPEHSNIQHFVEKVVFHLHESFPRPKRVCKDPPYKVEESGYAGFILP...
+
+-----Initial Input-----
+Human Protein ID: VN1R3
+Protein Sequence: Seq('MASKDFAIGMILLSQIMVGFLGNFFLLYHYSFLCFTRGMLQSTDLILKHLTIAN...LVR', SingleLetterAlphabet())
+Length: 311
+
+*****Alignment Starts Here*****
+
+Sequence: gi|332805015|gb|AEF00438.1| vomeronasal type 1 receptor F3 [Mus musculus domesticus]
+Length: 289
+E Value: 1.14082e-82
+Raw Score: 646.0
+Bitscore: 253.447
+Query Sequence: MASKDFAIGMILLSQIMVGFLGNFFLLYHYSFLCFTRGMLQSTDLILKHLTIANSLVILSKGIPQTMAAFGLKDS...
+Match Sequence: M + D  I +I LSQ +VG LGN FL+YHY  L + R  L+ TD IL+HL +AN L +L KGIP T++AFGLK+ ...
+Subject Sequence: MENSDIVISVIFLSQTVVGILGNSFLVYHYLMLYYMRCRLKFTDWILQHLIVANFLTLLCKGIPHTVSAFGLKNF...

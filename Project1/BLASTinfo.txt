@@ -1,0 +1,9 @@
+For the human-mouse protein comparison program, the following BLAST settings and options were utilized in order to achieve the results desired.
+
+1. The "blastp" program was used because the goal was to compare human protein sequences to mouse protein sequences. It is also supported by "qblast", making it a good option for my needs.
+
+2. The "nr" database option was used because it supports protein sequences from multiple content sources
+
+3. The BLOSUM 62 substitution matrix was used because it is excellent at comparing evolutionary diversity (especially over a long period of time)
+
+4. A "hitlist_size" of 1 was used because I was only interested in finding the most comparatively, close protein
