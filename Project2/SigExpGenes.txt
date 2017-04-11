@@ -1,0 +1,3096 @@
+Gene: RNF14
+P-Value: 0.000161051050531
+T-Statistic: -4.06289226933
+**********
+Gene: NID2
+P-Value: 0.00689626347257
+T-Statistic: -2.81156847351
+**********
+Gene: ZC3H14
+P-Value: 1.75678560853e-05
+T-Statistic: -4.72121896227
+**********
+Gene: NACAP1
+P-Value: 0.00479442822581
+T-Statistic: 2.94449216042
+**********
+Gene: NUP98
+P-Value: 0.000205759411301
+T-Statistic: -3.98750180132
+**********
+Gene: ITGA5
+P-Value: 0.00123211967884
+T-Statistic: 3.41463060406
+**********
+Gene: DENND4A
+P-Value: 0.000914302341551
+T-Statistic: -3.51324215566
+**********
+Gene: ABCB1
+P-Value: 0.00289644914906
+T-Statistic: 3.1233574371
+**********
+Gene: SDK2
+P-Value: 0.00535960911809
+T-Statistic: 2.9041159505
+**********
+Gene: HIBCH
+P-Value: 0.00504409677051
+T-Statistic: -2.92613835309
+**********
+Gene: SMAD6
+P-Value: 0.00136962518964
+T-Statistic: 3.37930567283
+**********
+Gene: SMAD7
+P-Value: 0.00530448196452
+T-Statistic: 2.90787540367
+**********
+Gene: SMAD2
+P-Value: 0.00394641155015
+T-Statistic: -3.01427727209
+**********
+Gene: TMPRSS11E
+P-Value: 0.00276182979705
+T-Statistic: -3.13995334888
+**********
+Gene: CRTAM
+P-Value: 0.000161615625898
+T-Statistic: 4.06181968125
+**********
+Gene: AIM1
+P-Value: 0.00081055049165
+T-Statistic: -3.55265854657
+**********
+Gene: IFT88
+P-Value: 0.0015961662577
+T-Statistic: -3.32785528481
+**********
+Gene: FBXO3
+P-Value: 0.00256089324787
+T-Statistic: -3.16619596393
+**********
+Gene: ABCE1
+P-Value: 0.000499603434923
+T-Statistic: -3.70888843466
+**********
+Gene: CYP2R1
+P-Value: 0.0020407116837
+T-Statistic: -3.24437842571
+**********
+Gene: GJA4
+P-Value: 0.00782850806092
+T-Statistic: 2.76435097211
+**********
+Gene: S1PR5
+P-Value: 0.000681856946772
+T-Statistic: -3.60885923874
+**********
+Gene: CEPT1
+P-Value: 0.00360404035787
+T-Statistic: -3.04650460352
+**********
+Gene: RIT1
+P-Value: 0.000475377466119
+T-Statistic: -3.72475406336
+**********
+Gene: KIAA1199
+P-Value: 0.00367178837781
+T-Statistic: -3.03990671555
+**********
+Gene: ZMAT3
+P-Value: 0.00967461371194
+T-Statistic: -2.68443414308
+**********
+Gene: C11orf16
+P-Value: 0.00961690254402
+T-Statistic: 2.68671144374
+**********
+Gene: UFSP2
+P-Value: 0.000499771655668
+T-Statistic: -3.70878086696
+**********
+Gene: ORC3L
+P-Value: 0.00206432721734
+T-Statistic: -3.24044122547
+**********
+Gene: NSUN3
+P-Value: 0.00163306630689
+T-Statistic: -3.32013730547
+**********
+Gene: OIP5
+P-Value: 0.00478642750272
+T-Statistic: -2.94509489992
+**********
+Gene: CLCN3
+P-Value: 0.00757011586362
+T-Statistic: -2.77689536045
+**********
+Gene: CH25H
+P-Value: 3.94333296218e-05
+T-Statistic: 4.48527942495
+**********
+Gene: NPTX2
+P-Value: 0.00452018808013
+T-Statistic: 2.96570688894
+**********
+Gene: TRMT11
+P-Value: 0.0016371368946
+T-Statistic: -3.3192960362
+**********
+Gene: LGALS9
+P-Value: 0.000268156298854
+T-Statistic: 3.90527766385
+**********
+Gene: LGALS4
+P-Value: 0.00124659843994
+T-Statistic: 3.41073934687
+**********
+Gene: PLAUR
+P-Value: 0.00794000157078
+T-Statistic: 2.75905565613
+**********
+Gene: GCNT3
+P-Value: 0.00976349370381
+T-Statistic: -2.68095115104
+**********
+Gene: TM2D3
+P-Value: 0.000148528194533
+T-Statistic: -4.08766871423
+**********
+Gene: ZFAND1
+P-Value: 0.00706108432533
+T-Statistic: -2.8028077794
+**********
+Gene: DDIT3
+P-Value: 0.00567882890002
+T-Statistic: 2.88302749202
+**********
+Gene: KIAA0586
+P-Value: 0.0034349137203
+T-Statistic: -3.06349605035
+**********
+Gene: ABCG2
+P-Value: 0.00844355945539
+T-Statistic: -2.73596119173
+**********
+Gene: PLSCR1
+P-Value: 0.00998842504036
+T-Statistic: 2.6722647726
+**********
+Gene: C15orf44
+P-Value: 0.00356707586707
+T-Statistic: -3.05015359561
+**********
+Gene: RMI1
+P-Value: 0.00777703064025
+T-Statistic: -2.76681934245
+**********
+Gene: GRIN2C
+P-Value: 0.00458581739569
+T-Statistic: 2.96052297563
+**********
+Gene: TAP1
+P-Value: 0.00152406496989
+T-Statistic: 3.34343609565
+**********
+Gene: AKAP6
+P-Value: 0.00967632754169
+T-Statistic: 2.68436670541
+**********
+Gene: PCLO
+P-Value: 0.00149308824967
+T-Statistic: -3.35034550941
+**********
+Gene: C16orf57
+P-Value: 0.00501014550557
+T-Statistic: 2.92858390176
+**********
+Gene: COBLL1
+P-Value: 0.000925314604553
+T-Statistic: -3.5093120111
+**********
+Gene: LOC440434
+P-Value: 0.0010072728543
+T-Statistic: -3.48138857031
+**********
+Gene: SEC61B
+P-Value: 0.00723099524131
+T-Statistic: 2.7939720074
+**********
+Gene: B3GNT1
+P-Value: 0.00479329485197
+T-Statistic: -2.94457748693
+**********
+Gene: TBCCD1
+P-Value: 0.0078205613224
+T-Statistic: -2.76473104472
+**********
+Gene: HLA-DRB1
+P-Value: 6.43987082419e-05
+T-Statistic: 4.33991918921
+**********
+Gene: MYCNOS
+P-Value: 0.00563385491959
+T-Statistic: 2.88593098275
+**********
+Gene: LOC100291393
+P-Value: 0.00712884751135
+T-Statistic: 2.79926064704
+**********
+Gene: MCM10
+P-Value: 0.000111172334144
+T-Statistic: -4.17582179865
+**********
+Gene: MRPS30
+P-Value: 0.000465628039226
+T-Statistic: -3.73135883489
+**********
+Gene: ATP5A1
+P-Value: 0.00994349740542
+T-Statistic: -2.67398536098
+**********
+Gene: IL18RAP
+P-Value: 0.00654482815796
+T-Statistic: 2.83091334953
+**********
+Gene: ARHGDIA
+P-Value: 0.00450508695827
+T-Statistic: 2.96690961056
+**********
+Gene: ZNF91
+P-Value: 0.00500653506714
+T-Statistic: 2.92884487148
+**********
+Gene: ZNF93
+P-Value: 0.00464658420078
+T-Statistic: -2.9557843801
+**********
+Gene: FKBP10
+P-Value: 0.00174501693923
+T-Statistic: 3.29769245562
+**********
+Gene: SHC3
+P-Value: 0.00871523817367
+T-Statistic: 2.7240225189
+**********
+Gene: KRT4
+P-Value: 0.00791668078985
+T-Statistic: -2.76015757279
+**********
+Gene: HIST2H2BE
+P-Value: 0.00727596322368
+T-Statistic: 2.79166564276
+**********
+Gene: COQ7
+P-Value: 0.00519988077955
+T-Statistic: -2.91510963843
+**********
+Gene: CRNN
+P-Value: 0.00854615868924
+T-Statistic: -2.73141161566
+**********
+Gene: TPX2
+P-Value: 0.00822762913684
+T-Statistic: -2.74570473979
+**********
+Gene: DENND2D
+P-Value: 0.00851883882362
+T-Statistic: -2.73261813854
+**********
+Gene: PHEX
+P-Value: 0.00925103792603
+T-Statistic: -2.70144710461
+**********
+Gene: AP1G1
+P-Value: 6.41655381309e-05
+T-Statistic: -4.3410010142
+**********
+Gene: H2AFJ
+P-Value: 0.00488397629643
+T-Statistic: 2.93780911705
+**********
+Gene: NMD3
+P-Value: 0.00433150073922
+T-Statistic: -2.98101129933
+**********
+Gene: MAVS
+P-Value: 0.00268552785384
+T-Statistic: -3.14970044243
+**********
+Gene: CLUAP1
+P-Value: 0.00334165033143
+T-Statistic: -3.07320381996
+**********
+Gene: SNRPG
+P-Value: 0.00928189116914
+T-Statistic: 2.7001839984
+**********
+Gene: GPATCH4
+P-Value: 0.00780522005051
+T-Statistic: 2.76546578687
+**********
+Gene: PCSK5
+P-Value: 0.00202041973331
+T-Statistic: -3.2477960035
+**********
+Gene: LARP6
+P-Value: 0.000484914660037
+T-Statistic: 3.71841758919
+**********
+Gene: EDIL3
+P-Value: 0.000482781151167
+T-Statistic: 3.71982464127
+**********
+Gene: BRWD1
+P-Value: 4.30948936943e-05
+T-Statistic: -4.45909830696
+**********
+Gene: S100A3
+P-Value: 0.00114515089387
+T-Statistic: 3.43896016824
+**********
+Gene: KIAA1609
+P-Value: 0.00479307949577
+T-Statistic: -2.94459370223
+**********
+Gene: SPIN2A
+P-Value: 0.00608951368214
+T-Statistic: -2.85745792067
+**********
+Gene: C1orf112
+P-Value: 7.19991056525e-06
+T-Statistic: -4.97702036456
+**********
+Gene: RSL24D1
+P-Value: 0.00864047717333
+T-Statistic: -2.72727331986
+**********
+Gene: LGALS3BP
+P-Value: 0.00704100396902
+T-Statistic: 2.80386494326
+**********
+Gene: ZNF334
+P-Value: 0.0027006732918
+T-Statistic: -3.14774518841
+**********
+Gene: RNF19B
+P-Value: 0.00442044257925
+T-Statistic: 2.97372141413
+**********
+Gene: MRPL44
+P-Value: 0.0044239033291
+T-Statistic: -2.97344053455
+**********
+Gene: ATP7B
+P-Value: 0.00369108882771
+T-Statistic: -3.03804790194
+**********
+Gene: MPHOSPH6
+P-Value: 0.000252617890366
+T-Statistic: -3.92387594181
+**********
+Gene: ZNF432
+P-Value: 0.00246906961265
+T-Statistic: 3.17883916136
+**********
+Gene: FXC1
+P-Value: 0.00131987450219
+T-Statistic: -3.39168112591
+**********
+Gene: IMPACT
+P-Value: 0.00412146780857
+T-Statistic: -2.99879590248
+**********
+Gene: RAB4B
+P-Value: 0.00992584783949
+T-Statistic: 2.67466323323
+**********
+Gene: KRT32
+P-Value: 0.00947360311753
+T-Statistic: 2.69242072897
+**********
+Gene: KRT37
+P-Value: 0.00459683534506
+T-Statistic: 2.95965947301
+**********
+Gene: CHN2
+P-Value: 0.000529465275079
+T-Statistic: 3.69031698128
+**********
+Gene: PARN
+P-Value: 0.00380248992339
+T-Statistic: -3.02749327431
+**********
+Gene: ADCY1
+P-Value: 0.00376233489662
+T-Statistic: 3.03126402026
+**********
+Gene: RBBP6
+P-Value: 0.00463770293579
+T-Statistic: 2.95647332776
+**********
+Gene: XRCC2
+P-Value: 0.00111956580896
+T-Statistic: 3.44645239666
+**********
+Gene: DDX60
+P-Value: 0.00691546228266
+T-Statistic: 2.81053811099
+**********
+Gene: MRPS27
+P-Value: 0.00186079181402
+T-Statistic: -3.27586972122
+**********
+Gene: PPP2R5B
+P-Value: 0.00782631114676
+T-Statistic: 2.76445600945
+**********
+Gene: ACACA
+P-Value: 0.000864097905664
+T-Statistic: -3.5317511628
+**********
+Gene: APPL1
+P-Value: 0.00228272280454
+T-Statistic: -3.20591826288
+**********
+Gene: FAM128A
+P-Value: 0.00786536272877
+T-Statistic: 2.7625929388
+**********
+Gene: COX7C
+P-Value: 0.00533523119189
+T-Statistic: 2.90577397843
+**********
+Gene: NFYA
+P-Value: 0.000253414151049
+T-Statistic: -3.92289640074
+**********
+Gene: PARP12
+P-Value: 0.00164832352894
+T-Statistic: 3.3169942449
+**********
+Gene: GTPBP1
+P-Value: 0.001256326548
+T-Statistic: 3.40814888604
+**********
+Gene: PCDHA6
+P-Value: 0.00803983032935
+T-Statistic: 2.75437213992
+**********
+Gene: EPM2AIP1
+P-Value: 0.00547048025877
+T-Statistic: 2.89666246847
+**********
+Gene: TDRD7
+P-Value: 0.00805450168857
+T-Statistic: 2.75368834354
+**********
+Gene: OAS1
+P-Value: 0.00492646692542
+T-Statistic: 2.93467779277
+**********
+Gene: OAS3
+P-Value: 0.0073330500637
+T-Statistic: 2.78875658684
+**********
+Gene: OAS2
+P-Value: 0.0069793587372
+T-Statistic: 2.80712784132
+**********
+Gene: TRIM22
+P-Value: 0.00530040332785
+T-Statistic: 2.90815499013
+**********
+Gene: MAGED4
+P-Value: 0.00205377931355
+T-Statistic: 3.24219450146
+**********
+Gene: EXD2
+P-Value: 0.00919010401211
+T-Statistic: -2.70395308647
+**********
+Gene: ELP4
+P-Value: 0.000195582635795
+T-Statistic: -4.00316245347
+**********
+Gene: DES
+P-Value: 0.000681908579551
+T-Statistic: 3.60883472017
+**********
+Gene: PEX3
+P-Value: 2.72095463075e-05
+T-Statistic: -4.59408493284
+**********
+Gene: ATP5I
+P-Value: 0.00220339871181
+T-Statistic: 3.21808251595
+**********
+Gene: MTHFR
+P-Value: 0.00774025853967
+T-Statistic: 2.76859181911
+**********
+Gene: ODZ1
+P-Value: 0.00424071864474
+T-Statistic: 2.98859736794
+**********
+Gene: ZNF415
+P-Value: 0.00127846858811
+T-Statistic: -3.40232305373
+**********
+Gene: RRAGC
+P-Value: 0.0035612864657
+T-Statistic: 3.05072830407
+**********
+Gene: GPATCH2
+P-Value: 0.00950391760198
+T-Statistic: -2.69120637693
+**********
+Gene: SFRS16
+P-Value: 0.00363841513876
+T-Statistic: 3.04314253233
+**********
+Gene: PTPRO
+P-Value: 0.000276432525089
+T-Statistic: 3.89579147847
+**********
+Gene: N6AMT1
+P-Value: 0.00496528023159
+T-Statistic: -2.93183934178
+**********
+Gene: ERGIC3
+P-Value: 0.00845865221297
+T-Statistic: 2.73528875248
+**********
+Gene: MX1
+P-Value: 0.00612419895368
+T-Statistic: 2.8553722045
+**********
+Gene: IFIT5
+P-Value: 0.00359885188575
+T-Statistic: 3.04701467182
+**********
+Gene: IFIT3
+P-Value: 0.00168887662792
+T-Statistic: 3.30877203244
+**********
+Gene: IFIT2
+P-Value: 0.0020948975324
+T-Statistic: 3.23540714101
+**********
+Gene: IFIT1
+P-Value: 0.00113307605141
+T-Statistic: 3.44247607214
+**********
+Gene: ISG15
+P-Value: 0.00305254750882
+T-Statistic: 3.10499686864
+**********
+Gene: TTC30A
+P-Value: 0.00672865191712
+T-Statistic: -2.82067815601
+**********
+Gene: ERLIN1
+P-Value: 0.00152341625548
+T-Statistic: -3.34357942365
+**********
+Gene: WDR33
+P-Value: 0.00340035747985
+T-Statistic: -3.06706389641
+**********
+Gene: KRT10
+P-Value: 0.000730527377597
+T-Statistic: 3.58649989591
+**********
+Gene: KRT19
+P-Value: 0.00291889673206
+T-Statistic: -3.12066076805
+**********
+Gene: MIA3
+P-Value: 0.0014680892311
+T-Statistic: -3.35602132986
+**********
+Gene: KCNC2
+P-Value: 0.00663324218326
+T-Statistic: 2.82595778325
+**********
+Gene: KIR3DS1
+P-Value: 0.00735039865461
+T-Statistic: 2.787876669
+**********
+Gene: SLC25A12
+P-Value: 4.6939242215e-05
+T-Statistic: -4.43384858797
+**********
+Gene: ZNF280D
+P-Value: 7.49627290941e-06
+T-Statistic: -4.96554199153
+**********
+Gene: VIP
+P-Value: 0.00679533063735
+T-Statistic: 2.81702932148
+**********
+Gene: GNG5
+P-Value: 0.00459629812991
+T-Statistic: 2.95970153111
+**********
+Gene: LOC100289848
+P-Value: 0.000186799302915
+T-Statistic: -4.01732517998
+**********
+Gene: ALG6
+P-Value: 0.000971507993225
+T-Statistic: -3.49329732249
+**********
+Gene: RAB11A
+P-Value: 0.00832292088843
+T-Statistic: -2.74137618237
+**********
+Gene: RAB11B
+P-Value: 0.00495971302147
+T-Statistic: 2.93224520645
+**********
+Gene: IRF1
+P-Value: 0.00199528016868
+T-Statistic: 3.2520752204
+**********
+Gene: IRF7
+P-Value: 0.0087099872737
+T-Statistic: 2.72425000315
+**********
+Gene: IRF9
+P-Value: 0.00076058781988
+T-Statistic: 3.57339053715
+**********
+Gene: CLK2
+P-Value: 0.00403975408813
+T-Statistic: -3.0059444051
+**********
+Gene: C16orf71
+P-Value: 0.00804401951428
+T-Statistic: 2.75417677509
+**********
+Gene: DUSP6
+P-Value: 0.000572366733421
+T-Statistic: 3.66532118317
+**********
+Gene: HSF1
+P-Value: 0.00104893318164
+T-Statistic: 3.46801403533
+**********
+Gene: CRLF3
+P-Value: 0.00171041471622
+T-Statistic: -3.30448077448
+**********
+Gene: B4GALT2
+P-Value: 0.000196374702601
+T-Statistic: 4.00191564599
+**********
+Gene: GPD1L
+P-Value: 0.000149364057923
+T-Statistic: -4.0859530982
+**********
+Gene: PCDHA10
+P-Value: 0.00798544132078
+T-Statistic: 2.75691714373
+**********
+Gene: CNIH4
+P-Value: 0.000227781585896
+T-Statistic: 3.95602688638
+**********
+Gene: PAX9
+P-Value: 0.0016128998788
+T-Statistic: -3.32433459616
+**********
+Gene: CD68
+P-Value: 0.00301813033583
+T-Statistic: 3.10896812029
+**********
+Gene: CSNK1E
+P-Value: 0.00129301191112
+T-Statistic: 3.39854841949
+**********
+Gene: DCP1A
+P-Value: 0.00767137655619
+T-Statistic: 2.77193302915
+**********
+Gene: PALB2
+P-Value: 0.00266016453184
+T-Statistic: -3.15299813551
+**********
+Gene: TAF7
+P-Value: 0.00485528800661
+T-Statistic: 2.93993764787
+**********
+Gene: ELMO2
+P-Value: 0.0099817632349
+T-Statistic: -2.6725194508
+**********
+Gene: AGPS
+P-Value: 0.000970544760355
+T-Statistic: -3.49362379271
+**********
+Gene: USP15
+P-Value: 0.00203927189445
+T-Statistic: -3.24461985646
+**********
+Gene: BPY2
+P-Value: 0.00570122111402
+T-Statistic: 2.88158980962
+**********
+Gene: MTAP
+P-Value: 0.000251573215534
+T-Statistic: -3.92516560089
+**********
+Gene: PDCD10
+P-Value: 0.00226935379892
+T-Statistic: -3.20794019974
+**********
+Gene: PIK3C3
+P-Value: 0.00443783488542
+T-Statistic: -2.97231189619
+**********
+Gene: MAG
+P-Value: 0.000437720751748
+T-Statistic: 3.75102535301
+**********
+Gene: BACH2
+P-Value: 0.00719300900167
+T-Statistic: 2.79593062164
+**********
+Gene: LSR
+P-Value: 0.0051447150966
+T-Statistic: 2.91897953817
+**********
+Gene: ANAPC1
+P-Value: 0.0001737904913
+T-Statistic: -4.0395306792
+**********
+Gene: PSMD13
+P-Value: 0.00963938523471
+T-Statistic: 2.68582278396
+**********
+Gene: PSMD12
+P-Value: 0.00657065695103
+T-Statistic: -2.82945928813
+**********
+Gene: MOBP
+P-Value: 9.34780600948e-05
+T-Statistic: 4.22820290297
+**********
+Gene: C6orf48
+P-Value: 0.00751444702499
+T-Statistic: 2.77964956861
+**********
+Gene: IFIH1
+P-Value: 0.00207956206916
+T-Statistic: 3.23792374262
+**********
+Gene: HMGB3
+P-Value: 0.00299703265663
+T-Statistic: -3.11142354399
+**********
+Gene: EEF1A1
+P-Value: 0.00772265957792
+T-Statistic: -2.76944286551
+**********
+Gene: CLIP4
+P-Value: 0.0028110295052
+T-Statistic: -3.13380165523
+**********
+Gene: LOC100289122
+P-Value: 0.00917506453285
+T-Statistic: 2.7045739495
+**********
+Gene: FPGT
+P-Value: 0.00110522160048
+T-Statistic: -3.45072441331
+**********
+Gene: CALR
+P-Value: 0.000703027968266
+T-Statistic: 3.59895171436
+**********
+Gene: WDR78
+P-Value: 0.00761659580635
+T-Statistic: -2.77461003826
+**********
+Gene: FAR2
+P-Value: 0.00125119010738
+T-Statistic: -3.40951426669
+**********
+Gene: WDR70
+P-Value: 0.00661196058024
+T-Statistic: -2.82714500117
+**********
+Gene: WDR73
+P-Value: 0.00517165821648
+T-Statistic: -2.9170846732
+**********
+Gene: PCF11
+P-Value: 0.00324014253108
+T-Statistic: 3.08406243172
+**********
+Gene: RAB27B
+P-Value: 0.000719173987775
+T-Statistic: -3.59158555314
+**********
+Gene: BET1
+P-Value: 0.00527390950479
+T-Statistic: -2.90997599482
+**********
+Gene: GPSM3
+P-Value: 0.000433442232033
+T-Statistic: 3.75414637339
+**********
+Gene: LNPEP
+P-Value: 0.00754621312367
+T-Statistic: -2.77807564988
+**********
+Gene: DPH5
+P-Value: 0.00456114631194
+T-Statistic: -2.96246353488
+**********
+Gene: RNF34
+P-Value: 0.00207808341279
+T-Statistic: -3.23816731958
+**********
+Gene: CUL5
+P-Value: 0.00562510483011
+T-Statistic: -2.88649838019
+**********
+Gene: TRIM26
+P-Value: 0.00635979456832
+T-Statistic: 2.84148800425
+**********
+Gene: TRIM21
+P-Value: 0.00134314371593
+T-Statistic: 3.38583881698
+**********
+Gene: TRIM23
+P-Value: 0.00105612439924
+T-Statistic: -3.46575666738
+**********
+Gene: ARHGAP8
+P-Value: 0.00316757672947
+T-Statistic: -3.092022157
+**********
+Gene: ZNF614
+P-Value: 0.00583653170138
+T-Statistic: -2.87301207909
+**********
+Gene: BAG2
+P-Value: 0.00975711108081
+T-Statistic: -2.6812003001
+**********
+Gene: BAG1
+P-Value: 0.00283687756899
+T-Statistic: -3.13061013676
+**********
+Gene: MYL12A
+P-Value: 0.000588759187481
+T-Statistic: 3.65624166642
+**********
+Gene: PGLYRP4
+P-Value: 0.000231121613815
+T-Statistic: -3.95151169582
+**********
+Gene: GADD45A
+P-Value: 0.00202427714752
+T-Statistic: 3.24714385086
+**********
+Gene: SUZ12
+P-Value: 0.00250967374566
+T-Statistic: 3.17319475311
+**********
+Gene: MBTPS2
+P-Value: 0.00036708574205
+T-Statistic: -3.80675865975
+**********
+Gene: POLR2H
+P-Value: 0.00226229470287
+T-Statistic: 3.20901235278
+**********
+Gene: ASCC1
+P-Value: 0.000600129897427
+T-Statistic: -3.6500846637
+**********
+Gene: MAPK14
+P-Value: 0.00315517999434
+T-Statistic: -3.09339901657
+**********
+Gene: HPGD
+P-Value: 0.00125519191845
+T-Statistic: -3.40845003929
+**********
+Gene: HUS1
+P-Value: 0.000220628407141
+T-Statistic: -3.96591576316
+**********
+Gene: CACNB1
+P-Value: 0.00634301901255
+T-Statistic: 2.84246075073
+**********
+Gene: C10orf76
+P-Value: 0.00195736766627
+T-Statistic: -3.25862584138
+**********
+Gene: ZNF557
+P-Value: 0.00328634547557
+T-Statistic: -3.07908102001
+**********
+Gene: GTF2H2
+P-Value: 0.00765605063186
+T-Statistic: -2.77268019204
+**********
+Gene: RPL39
+P-Value: 0.00277634462429
+T-Statistic: 3.13812785191
+**********
+Gene: RPL30
+P-Value: 0.00527571454797
+T-Statistic: 2.90985165904
+**********
+Gene: TARBP1
+P-Value: 0.00588205865652
+T-Statistic: -2.87016741059
+**********
+Gene: SUMO2
+P-Value: 0.00902579372552
+T-Statistic: 2.71078734757
+**********
+Gene: CXCL11
+P-Value: 0.0057480528876
+T-Statistic: 2.87859984803
+**********
+Gene: CXCL10
+P-Value: 0.005566048329
+T-Statistic: 2.89034943728
+**********
+Gene: NKG7
+P-Value: 0.002736022707
+T-Statistic: 3.14322141707
+**********
+Gene: CHIC2
+P-Value: 0.00251776194872
+T-Statistic: -3.17208067474
+**********
+Gene: ACP6
+P-Value: 0.00370572479473
+T-Statistic: -3.03664436969
+**********
+Gene: HNF4A
+P-Value: 0.007146447763
+T-Statistic: 2.79834443708
+**********
+Gene: ERF
+P-Value: 0.00737857577357
+T-Statistic: 2.78645160447
+**********
+Gene: C3AR1
+P-Value: 0.00584551393089
+T-Statistic: 2.87244921609
+**********
+Gene: BAAT
+P-Value: 0.00939693891719
+T-Statistic: 2.69550775683
+**********
+Gene: C6orf145
+P-Value: 0.00463850444048
+T-Statistic: 2.95641110212
+**********
+Gene: IFI16
+P-Value: 0.00511330692492
+T-Statistic: 2.92120009871
+**********
+Gene: RTCD1
+P-Value: 0.00604160826189
+T-Statistic: -2.86035676599
+**********
+Gene: GPN2
+P-Value: 0.00363407526932
+T-Statistic: -3.04356535665
+**********
+Gene: CDK4
+P-Value: 0.00716825165222
+T-Statistic: -2.79721228402
+**********
+Gene: ARMCX2
+P-Value: 0.00724028310372
+T-Statistic: -2.79349455941
+**********
+Gene: ATP10A
+P-Value: 7.21049585159e-06
+T-Statistic: 4.97660245158
+**********
+Gene: HIST1H3C
+P-Value: 0.00312762269935
+T-Statistic: 3.09647795788
+**********
+Gene: PPP1R8
+P-Value: 0.00345016167085
+T-Statistic: -3.06193240898
+**********
+Gene: ZNF573
+P-Value: 0.00246340229153
+T-Statistic: -3.17963391467
+**********
+Gene: PCYT1A
+P-Value: 0.00700912338275
+T-Statistic: -2.80554908237
+**********
+Gene: CXCL9
+P-Value: 0.00186558815883
+T-Statistic: 3.27499358575
+**********
+Gene: B4GALT4
+P-Value: 0.00870129069198
+T-Statistic: -2.72462704171
+**********
+Gene: LOC100132214
+P-Value: 0.00210364682235
+T-Statistic: 3.23397912566
+**********
+Gene: AMMECR1
+P-Value: 0.0034949383008
+T-Statistic: -3.05737777164
+**********
+Gene: METT10D
+P-Value: 0.00937046135228
+T-Statistic: -2.69657929459
+**********
+Gene: EMD
+P-Value: 0.00551593837287
+T-Statistic: 2.89364694194
+**********
+Gene: RGR
+P-Value: 0.00381150354316
+T-Statistic: 3.02665196842
+**********
+Gene: PHKA2
+P-Value: 0.00791755420664
+T-Statistic: -2.76011624963
+**********
+Gene: A4GNT
+P-Value: 0.00605903745888
+T-Statistic: 2.85929963717
+**********
+Gene: PDE3B
+P-Value: 0.00367134742239
+T-Statistic: 3.03994929032
+**********
+Gene: NDUFA6
+P-Value: 0.00464924640162
+T-Statistic: 2.95557810364
+**********
+Gene: MNS1
+P-Value: 0.0006565647076
+T-Statistic: -3.62108828182
+**********
+Gene: SP100
+P-Value: 0.00289550909364
+T-Statistic: 3.12347079509
+**********
+Gene: TIMP1
+P-Value: 0.00368810435424
+T-Statistic: 3.03833473982
+**********
+Gene: PAFAH1B2
+P-Value: 0.00544397886201
+T-Statistic: -2.89843122464
+**********
+Gene: ZWINT
+P-Value: 0.00606075393941
+T-Statistic: -2.85919568031
+**********
+Gene: HLA-E
+P-Value: 0.00842456626745
+T-Statistic: 2.73680898243
+**********
+Gene: MYD88
+P-Value: 0.00161697525869
+T-Statistic: 3.32348238803
+**********
+Gene: SYNPO2
+P-Value: 0.00647534300595
+T-Statistic: 2.83485160131
+**********
+Gene: CRHBP
+P-Value: 0.00554854951464
+T-Statistic: 2.89149781171
+**********
+Gene: CRNKL1
+P-Value: 0.00242668349579
+T-Statistic: -3.18482522492
+**********
+Gene: CSE1L
+P-Value: 7.52699827836e-05
+T-Statistic: -4.29329525045
+**********
+Gene: MAK10
+P-Value: 0.00366374163712
+T-Statistic: -3.04068439135
+**********
+Gene: USP14
+P-Value: 0.00593574220927
+T-Statistic: -2.86683919404
+**********
+Gene: DUS4L
+P-Value: 0.00826735986991
+T-Statistic: -2.74389442276
+**********
+Gene: JPH2
+P-Value: 0.0010561394754
+T-Statistic: 3.46575195026
+**********
+Gene: TSN
+P-Value: 0.0096853937068
+T-Statistic: -2.68401014195
+**********
+Gene: CHRD
+P-Value: 0.00617966740924
+T-Statistic: 2.85205936824
+**********
+Gene: TSPYL4
+P-Value: 0.000291144826672
+T-Statistic: 3.87958456923
+**********
+Gene: PSIP1
+P-Value: 0.00191566671765
+T-Statistic: -3.26597082454
+**********
+Gene: RET
+P-Value: 0.00589886914135
+T-Statistic: 2.8691221948
+**********
+Gene: SFRS17A
+P-Value: 0.00251224651024
+T-Statistic: 3.17284001175
+**********
+Gene: FOXP3
+P-Value: 0.00394404009728
+T-Statistic: 3.01449136418
+**********
+Gene: SLCO4A1
+P-Value: 0.00410721411586
+T-Statistic: -3.00003326931
+**********
+Gene: RBM7
+P-Value: 0.00766312045673
+T-Statistic: -2.77233535585
+**********
+Gene: RBM4
+P-Value: 0.00785875198679
+T-Statistic: -2.76290772371
+**********
+Gene: FLJ34077
+P-Value: 0.00145937153107
+T-Statistic: -3.35802216585
+**********
+Gene: PGF
+P-Value: 0.00331024202781
+T-Statistic: 3.07653027499
+**********
+Gene: PEX11B
+P-Value: 0.000138375276319
+T-Statistic: -4.10928843264
+**********
+Gene: TREM2
+P-Value: 0.000113997079798
+T-Statistic: -4.16821769167
+**********
+Gene: PROS1
+P-Value: 0.00922369482835
+T-Statistic: -2.70256974359
+**********
+Gene: ADAR
+P-Value: 0.0013928973875
+T-Statistic: 3.37366242962
+**********
+Gene: ZNF189
+P-Value: 0.00814565606641
+T-Statistic: -2.74946537639
+**********
+Gene: ZNF236
+P-Value: 0.007521705025
+T-Statistic: -2.77928941564
+**********
+Gene: FAM35A
+P-Value: 0.00345568565672
+T-Statistic: -3.06136753287
+**********
+Gene: C17orf91
+P-Value: 0.00630637251966
+T-Statistic: 2.84459404054
+**********
+Gene: NOP56
+P-Value: 0.00806831684057
+T-Statistic: 2.75304550036
+**********
+Gene: CAPRIN1
+P-Value: 0.00479332867687
+T-Statistic: -2.94457494013
+**********
+Gene: C9orf82
+P-Value: 0.00094383305936
+T-Statistic: -3.50280238078
+**********
+Gene: VRK2
+P-Value: 0.000625843401842
+T-Statistic: -3.63656313507
+**********
+Gene: RFNG
+P-Value: 0.00394103917003
+T-Statistic: 3.01476245687
+**********
+Gene: SHMT2
+P-Value: 0.00647833568759
+T-Statistic: 2.83468117956
+**********
+Gene: SHMT1
+P-Value: 0.000177079717391
+T-Statistic: -4.03376804524
+**********
+Gene: NENF
+P-Value: 0.00281101500717
+T-Statistic: 3.13380345305
+**********
+Gene: ACSBG2
+P-Value: 0.00139120869192
+T-Statistic: 3.37406889947
+**********
+Gene: JUN
+P-Value: 0.00442673442382
+T-Statistic: 2.97321091094
+**********
+Gene: FBXO7
+P-Value: 0.000195817034649
+T-Statistic: 4.00279297434
+**********
+Gene: RNMTL1
+P-Value: 0.000686265426485
+T-Statistic: -3.60677217352
+**********
+Gene: ERMP1
+P-Value: 0.00334076549621
+T-Statistic: -3.07329713136
+**********
+Gene: RPE
+P-Value: 0.000654067809219
+T-Statistic: -3.62231988068
+**********
+Gene: PIR
+P-Value: 0.00217543196947
+T-Statistic: -3.22246976676
+**********
+Gene: COG8
+P-Value: 0.00387006127968
+T-Statistic: -3.02123119373
+**********
+Gene: KCNMB1
+P-Value: 0.00268223854024
+T-Statistic: 3.15012645726
+**********
+Gene: NBR2
+P-Value: 0.00395943289816
+T-Statistic: 3.01310385595
+**********
+Gene: PCBP2
+P-Value: 0.00194379815376
+T-Statistic: 3.26099955327
+**********
+Gene: HOPX
+P-Value: 0.0019544142286
+T-Statistic: -3.25914116009
+**********
+Gene: RBM28
+P-Value: 0.0041920214614
+T-Statistic: -2.99272930979
+**********
+Gene: ZMYM1
+P-Value: 0.00753512127642
+T-Statistic: -2.77862452367
+**********
+Gene: COL9A3
+P-Value: 0.00822810872268
+T-Statistic: 2.74568283971
+**********
+Gene: PXMP3
+P-Value: 0.000197738212547
+T-Statistic: -3.99978065505
+**********
+Gene: MTERF
+P-Value: 0.00722284896203
+T-Statistic: -2.79439123776
+**********
+Gene: KCNJ12
+P-Value: 0.00460795447538
+T-Statistic: 2.95878999245
+**********
+Gene: DAZAP1
+P-Value: 0.00660372484977
+T-Statistic: 2.82760538899
+**********
+Gene: MFAP1
+P-Value: 0.000285340423458
+T-Statistic: -3.88588230072
+**********
+Gene: HBS1L
+P-Value: 0.00770667483706
+T-Statistic: -2.77021740206
+**********
+Gene: ID2B
+P-Value: 0.00881789186588
+T-Statistic: 2.71960037414
+**********
+Gene: C19orf50
+P-Value: 0.00875241378273
+T-Statistic: 2.72241555643
+**********
+Gene: RAD1
+P-Value: 0.000257471135269
+T-Statistic: -3.91795121865
+**********
+Gene: RWDD2B
+P-Value: 6.28976135127e-05
+T-Statistic: -4.34695152611
+**********
+Gene: OPCML
+P-Value: 0.00215492440972
+T-Statistic: 3.22572078147
+**********
+Gene: AKTIP
+P-Value: 0.00136095599408
+T-Statistic: -3.38143112681
+**********
+Gene: CROT
+P-Value: 0.00543149561183
+T-Statistic: -2.89926715251
+**********
+Gene: DCTN5
+P-Value: 0.00170902722761
+T-Statistic: -3.30475567402
+**********
+Gene: KNTC1
+P-Value: 0.00358817320447
+T-Statistic: -3.04806663965
+**********
+Gene: SSTR4
+P-Value: 0.00461731900161
+T-Statistic: 2.95805923063
+**********
+Gene: ANKRD45
+P-Value: 0.00367900842066
+T-Statistic: 3.0392102909
+**********
+Gene: PCID2
+P-Value: 2.00140666382e-05
+T-Statistic: -4.68346018198
+**********
+Gene: CNOT1
+P-Value: 0.0030133133885
+T-Statistic: -3.10952731239
+**********
+Gene: RPP14
+P-Value: 0.00200056680951
+T-Statistic: -3.25117112868
+**********
+Gene: USP36
+P-Value: 0.00624205476031
+T-Statistic: 2.84836604271
+**********
+Gene: ATP1B3
+P-Value: 0.00653496082066
+T-Statistic: 2.83147024386
+**********
+Gene: LOC91316
+P-Value: 0.00144442033767
+T-Statistic: 3.36148019559
+**********
+Gene: SNX1
+P-Value: 0.00361523900723
+T-Statistic: -3.0454060234
+**********
+Gene: SNX5
+P-Value: 0.00576641510429
+T-Statistic: -2.87743367875
+**********
+Gene: SNX4
+P-Value: 0.00263718824776
+T-Statistic: -3.15601107862
+**********
+Gene: SCEL
+P-Value: 5.68343209438e-05
+T-Statistic: -4.37712558945
+**********
+Gene: RPRD1A
+P-Value: 0.0013288967304
+T-Statistic: -3.38940436146
+**********
+Gene: MED14
+P-Value: 3.29943597145e-05
+T-Statistic: -4.5376751488
+**********
+Gene: HSPC157
+P-Value: 0.00100923362098
+T-Statistic: -3.48074738383
+**********
+Gene: MUSK
+P-Value: 0.00471713893062
+T-Statistic: 2.95035437639
+**********
+Gene: PMAIP1
+P-Value: 0.00816032560939
+T-Statistic: 2.74878983808
+**********
+Gene: TAGLN2
+P-Value: 0.00519691796798
+T-Statistic: 2.91531650952
+**********
+Gene: NARS2
+P-Value: 0.00206366646287
+T-Statistic: -3.24055080791
+**********
+Gene: SNTA1
+P-Value: 0.0029023991049
+T-Statistic: 3.12264075274
+**********
+Gene: FAM98A
+P-Value: 0.00857859017688
+T-Statistic: -2.72998394379
+**********
+Gene: NONO
+P-Value: 0.00127657776505
+T-Statistic: -3.4028167964
+**********
+Gene: TMEM135
+P-Value: 0.000182456437876
+T-Statistic: -4.02456736601
+**********
+Gene: LOC100128826
+P-Value: 0.00938509079023
+T-Statistic: 2.69598690353
+**********
+Gene: HERC1
+P-Value: 0.00274152807413
+T-Statistic: -3.14252182514
+**********
+Gene: FNDC4
+P-Value: 0.00938365866375
+T-Statistic: 2.69604485733
+**********
+Gene: CD83
+P-Value: 0.00699072374795
+T-Statistic: 2.80652429255
+**********
+Gene: BCL7B
+P-Value: 0.00437891648855
+T-Statistic: 2.97710781129
+**********
+Gene: CD8A
+P-Value: 0.00275269741585
+T-Statistic: 3.14110653172
+**********
+Gene: HARS2
+P-Value: 0.00853100947887
+T-Statistic: -2.73208020907
+**********
+Gene: KIRREL
+P-Value: 0.00637481786925
+T-Statistic: 2.84061887716
+**********
+Gene: ESRRB
+P-Value: 0.00154880648319
+T-Statistic: 3.33801234222
+**********
+Gene: THG1L
+P-Value: 0.00708409818738
+T-Statistic: -2.80159958461
+**********
+Gene: NNT
+P-Value: 0.00533270548703
+T-Statistic: -2.90594616244
+**********
+Gene: ATP2B3
+P-Value: 0.00450578333275
+T-Statistic: 2.96685406561
+**********
+Gene: EED
+P-Value: 0.00231279616398
+T-Statistic: -3.20141041075
+**********
+Gene: PDHX
+P-Value: 0.00571431017357
+T-Statistic: -2.88075185564
+**********
+Gene: PIK3R1
+P-Value: 0.00461009166303
+T-Statistic: 2.95862309507
+**********
+Gene: SAMD9
+P-Value: 0.00554693467436
+T-Statistic: 2.89160395627
+**********
+Gene: MPHOSPH10
+P-Value: 0.00214499750545
+T-Statistic: 3.22730495956
+**********
+Gene: CGA
+P-Value: 0.00264331706107
+T-Statistic: 3.15520498507
+**********
+Gene: C2orf43
+P-Value: 3.99385622363e-05
+T-Statistic: -4.48152913926
+**********
+Gene: ARL6IP4
+P-Value: 0.00728418775514
+T-Statistic: 2.79124523783
+**********
+Gene: STAU2
+P-Value: 0.00701452930965
+T-Statistic: -2.80526300889
+**********
+Gene: C20orf117
+P-Value: 0.00423613857708
+T-Statistic: -2.9889840948
+**********
+Gene: CCDC76
+P-Value: 0.00490071559652
+T-Statistic: -2.93657250963
+**********
+Gene: SIGLEC8
+P-Value: 0.00164030600563
+T-Statistic: 3.31864244449
+**********
+Gene: NR0B2
+P-Value: 0.00702247000759
+T-Statistic: 2.80484316812
+**********
+Gene: KIAA1279
+P-Value: 0.00450851246164
+T-Statistic: -2.966636459
+**********
+Gene: NUP133
+P-Value: 0.00222347505094
+T-Statistic: -3.21496530403
+**********
+Gene: FKTN
+P-Value: 0.00632178218517
+T-Statistic: -2.84369560872
+**********
+Gene: TUG1
+P-Value: 0.000397570835144
+T-Statistic: 3.7815416395
+**********
+Gene: TMEM53
+P-Value: 0.00853118652532
+T-Statistic: -2.73207238903
+**********
+Gene: CDC40
+P-Value: 0.00133216765518
+T-Statistic: -3.38858256232
+**********
+Gene: KLK3
+P-Value: 0.00592470548145
+T-Statistic: 2.86752115306
+**********
+Gene: MTRR
+P-Value: 0.0090511668592
+T-Statistic: -2.70972456733
+**********
+Gene: IL10RB
+P-Value: 0.00717442413417
+T-Statistic: -2.79689235912
+**********
+Gene: COPS2
+P-Value: 0.000431154258273
+T-Statistic: -3.75582752072
+**********
+Gene: FDFT1
+P-Value: 0.00155482233651
+T-Statistic: -3.33670597018
+**********
+Gene: IGF2
+P-Value: 0.00356706976592
+T-Statistic: 3.05015420081
+**********
+Gene: NUDT6
+P-Value: 0.00817332068223
+T-Statistic: -2.74819234273
+**********
+Gene: RPLP2
+P-Value: 0.00651697208039
+T-Statistic: 2.83248749944
+**********
+Gene: TEX10
+P-Value: 0.00667953159036
+T-Statistic: -2.82338759
+**********
+Gene: THYN1
+P-Value: 0.000452551152029
+T-Statistic: -3.74042923269
+**********
+Gene: ZNF33B
+P-Value: 0.0024526326723
+T-Statistic: -3.1811489379
+**********
+Gene: TCEB1
+P-Value: 0.00894342589362
+T-Statistic: 2.71425642008
+**********
+Gene: PRDM5
+P-Value: 0.00901911852219
+T-Statistic: -2.71106740121
+**********
+Gene: RBM4B
+P-Value: 0.000230125804135
+T-Statistic: -3.95285125069
+**********
+Gene: CARHSP1
+P-Value: 0.000198132087857
+T-Statistic: 3.99916657014
+**********
+Gene: TTC13
+P-Value: 3.39783668792e-05
+T-Statistic: -4.5290533516
+**********
+Gene: LOC100293124
+P-Value: 7.05988798972e-05
+T-Statistic: 4.31246871106
+**********
+Gene: CHEK1
+P-Value: 5.60576568972e-05
+T-Statistic: -4.38121518096
+**********
+Gene: AGBL2
+P-Value: 0.00520826857622
+T-Statistic: 2.91452457431
+**********
+Gene: ARRB2
+P-Value: 0.0041014904748
+T-Statistic: 3.000531268
+**********
+Gene: EIF2C2
+P-Value: 0.00381527684709
+T-Statistic: -3.02630033072
+**********
+Gene: RPS6KA3
+P-Value: 0.00144603698489
+T-Statistic: -3.36110465319
+**********
+Gene: PEX13
+P-Value: 0.00478929045419
+T-Statistic: -2.94487911003
+**********
+Gene: ZYX
+P-Value: 0.00429329457395
+T-Statistic: 2.98418570095
+**********
+Gene: PLLP
+P-Value: 0.000947704081354
+T-Statistic: -3.50145701992
+**********
+Gene: NUCB2
+P-Value: 0.000677846060651
+T-Statistic: 3.61076930976
+**********
+Gene: SOCS5
+P-Value: 0.000204153422832
+T-Statistic: -3.98992278816
+**********
+Gene: CCNI
+P-Value: 0.00307109567701
+T-Statistic: 3.10287405368
+**********
+Gene: DCUN1D1
+P-Value: 0.00269537864296
+T-Statistic: -3.1484275459
+**********
+Gene: TAF9B
+P-Value: 0.00175298816917
+T-Statistic: -3.29614669348
+**********
+Gene: KIAA1539
+P-Value: 0.00490359414732
+T-Statistic: 2.93636025412
+**********
+Gene: AMH
+P-Value: 0.00845231144371
+T-Statistic: 2.73557112314
+**********
+Gene: SDHA
+P-Value: 0.00574773131649
+T-Statistic: -2.8786203015
+**********
+Gene: SHARPIN
+P-Value: 0.0026961798291
+T-Statistic: 3.14832421076
+**********
+Gene: PHF3
+P-Value: 0.00178037789061
+T-Statistic: -3.29088551665
+**********
+Gene: ARHGAP15
+P-Value: 0.00459750539667
+T-Statistic: 2.95960702169
+**********
+Gene: IL7R
+P-Value: 0.000800552154787
+T-Statistic: 3.5567078613
+**********
+Gene: PDAP1
+P-Value: 0.000827392726137
+T-Statistic: 3.54594399674
+**********
+Gene: TTC35
+P-Value: 0.000484041737189
+T-Statistic: -3.7189925641
+**********
+Gene: LRMP
+P-Value: 0.00580844707111
+T-Statistic: -2.87477717134
+**********
+Gene: INTS6
+P-Value: 0.000553608696564
+T-Statistic: -3.67602154617
+**********
+Gene: AUH
+P-Value: 0.00468872558854
+T-Statistic: -2.95253195907
+**********
+Gene: LMO4
+P-Value: 0.00655591235278
+T-Statistic: 2.83028870327
+**********
+Gene: C4orf41
+P-Value: 0.00428165561459
+T-Statistic: -2.98515797169
+**********
+Gene: RBM23
+P-Value: 0.00663924068967
+T-Statistic: -2.8256237861
+**********
+Gene: ARFIP1
+P-Value: 0.0044034680208
+T-Statistic: -2.97510206904
+**********
+Gene: GIN1
+P-Value: 7.12181033915e-06
+T-Statistic: -4.9801226035
+**********
+Gene: CERK
+P-Value: 0.00921290195343
+T-Statistic: -2.70301371282
+**********
+Gene: MARCH5
+P-Value: 0.00764719991377
+T-Statistic: -2.77311230662
+**********
+Gene: MARCH7
+P-Value: 0.00452003441278
+T-Statistic: -2.96571910884
+**********
+Gene: CLSTN3
+P-Value: 0.0011478790825
+T-Statistic: 3.43817066657
+**********
+Gene: GTF2E2
+P-Value: 0.00265850168676
+T-Statistic: -3.15321536638
+**********
+Gene: FGFR1OP
+P-Value: 0.00503137445967
+T-Statistic: -2.92705295786
+**********
+Gene: CLSPN
+P-Value: 0.00536196100726
+T-Statistic: 2.90395636089
+**********
+Gene: KISS1
+P-Value: 0.0045026542746
+T-Statistic: 2.96710371164
+**********
+Gene: MSH2
+P-Value: 0.000109070187864
+T-Statistic: -4.18160330223
+**********
+Gene: ATP6V1C1
+P-Value: 0.000199258252057
+T-Statistic: -3.99741726883
+**********
+Gene: C19orf2
+P-Value: 0.00658668142416
+T-Statistic: -2.82855982678
+**********
+Gene: GPATCH1
+P-Value: 0.00470763779984
+T-Statistic: -2.95108117575
+**********
+Gene: PPP1R3D
+P-Value: 0.00782628604262
+T-Statistic: -2.76445720987
+**********
+Gene: NME4
+P-Value: 0.00867911840118
+T-Statistic: 2.72558988625
+**********
+Gene: RPL13P5
+P-Value: 0.00415499732359
+T-Statistic: 2.9959008675
+**********
+Gene: KIAA0753
+P-Value: 0.000214936701006
+T-Statistic: -3.97400786922
+**********
+Gene: EFHD2
+P-Value: 0.00198904832067
+T-Statistic: 3.25314386372
+**********
+Gene: RCHY1
+P-Value: 0.000389109401427
+T-Statistic: -3.78834932945
+**********
+Gene: CBR4
+P-Value: 0.000578624179917
+T-Statistic: -3.66182626015
+**********
+Gene: HLA-C
+P-Value: 0.00361031768238
+T-Statistic: 3.04588840958
+**********
+Gene: ANXA7
+P-Value: 3.68504971309e-05
+T-Statistic: -4.5052155121
+**********
+Gene: AGPAT1
+P-Value: 0.0089911926234
+T-Statistic: 2.71224108085
+**********
+Gene: PIBF1
+P-Value: 0.0092710694835
+T-Statistic: -2.70062658997
+**********
+Gene: KIFAP3
+P-Value: 0.00458528228465
+T-Statistic: -2.96056496272
+**********
+Gene: C20orf20
+P-Value: 0.00343372980125
+T-Statistic: 3.06361773011
+**********
+Gene: LOC653390
+P-Value: 0.00615548355203
+T-Statistic: -2.85350034203
+**********
+Gene: SLC19A2
+P-Value: 0.00699176133526
+T-Statistic: 2.80646923572
+**********
+Gene: TMEM110
+P-Value: 0.00648472476389
+T-Statistic: -2.8343175897
+**********
+Gene: DPY19L4
+P-Value: 0.004006730664
+T-Statistic: -3.00887172682
+**********
+Gene: ORC4L
+P-Value: 0.00288917438842
+T-Statistic: -3.12423557682
+**********
+Gene: CXorf40A
+P-Value: 0.00297812813375
+T-Statistic: -3.11363753309
+**********
+Gene: FAF1
+P-Value: 0.00885922142532
+T-Statistic: -2.7178333107
+**********
+Gene: CDC23
+P-Value: 0.00115313807579
+T-Statistic: -3.43665380263
+**********
+Gene: MAPK1
+P-Value: 0.00651005051918
+T-Statistic: -2.83287960278
+**********
+Gene: MAPK6
+P-Value: 0.00937702127111
+T-Statistic: -2.6963135584
+**********
+Gene: BRAP
+P-Value: 0.000378805306734
+T-Statistic: 3.79683426419
+**********
+Gene: PGAP1
+P-Value: 0.00824069327189
+T-Statistic: -2.74510859106
+**********
+Gene: UQCR
+P-Value: 0.00766494651974
+T-Statistic: 2.77224633586
+**********
+Gene: MMP13
+P-Value: 0.00456776863454
+T-Statistic: 2.96194168326
+**********
+Gene: PPP1R10
+P-Value: 0.00256816943506
+T-Statistic: 3.16521242045
+**********
+Gene: MMACHC
+P-Value: 0.00134512697254
+T-Statistic: -3.38534532145
+**********
+Gene: C7orf25
+P-Value: 0.000107924005874
+T-Statistic: -4.18480132599
+**********
+Gene: C7orf26
+P-Value: 0.00225311677149
+T-Statistic: 3.21041104213
+**********
+Gene: RIOK2
+P-Value: 0.000171221824733
+T-Statistic: -4.0441047227
+**********
+Gene: RIOK3
+P-Value: 0.00520140737272
+T-Statistic: 2.91500309053
+**********
+Gene: COPG2IT1
+P-Value: 0.00770003901869
+T-Statistic: 2.77053937389
+**********
+Gene: LOC728448
+P-Value: 0.00891705957059
+T-Statistic: 2.71537308703
+**********
+Gene: CAMK2N1
+P-Value: 0.000736921253884
+T-Statistic: 3.58366894091
+**********
+Gene: MKLN1
+P-Value: 0.00023054430115
+T-Statistic: -3.95228761198
+**********
+Gene: RAB5C
+P-Value: 0.00258054503313
+T-Statistic: 3.16354557716
+**********
+Gene: NHEJ1
+P-Value: 0.00177993716422
+T-Statistic: -3.29096956656
+**********
+Gene: DDX58
+P-Value: 0.00717878818031
+T-Statistic: 2.79666632023
+**********
+Gene: MCTP2
+P-Value: 0.00246808018462
+T-Statistic: -3.17897778944
+**********
+Gene: CCDC41
+P-Value: 0.00135248159245
+T-Statistic: -3.38352127028
+**********
+Gene: RPA2
+P-Value: 0.000824797506805
+T-Statistic: -3.54697009621
+**********
+Gene: P2RY2
+P-Value: 0.00622621054848
+T-Statistic: -2.84930076997
+**********
+Gene: CXorf40B
+P-Value: 0.000916997745015
+T-Statistic: -3.5122760467
+**********
+Gene: COQ9
+P-Value: 0.000293368442604
+T-Statistic: -3.8772039515
+**********
+Gene: PCMTD2
+P-Value: 0.00644280802427
+T-Statistic: -2.83670906044
+**********
+Gene: CSTF1
+P-Value: 2.51106710775e-05
+T-Statistic: -4.61750301141
+**********
+Gene: PNPO
+P-Value: 0.00655249697511
+T-Statistic: -2.83048107161
+**********
+Gene: ZBTB25
+P-Value: 0.000957532543279
+T-Statistic: -3.49806454356
+**********
+Gene: DDN
+P-Value: 0.002191614667
+T-Statistic: 3.2199246898
+**********
+Gene: LOC100290509
+P-Value: 0.00716728416542
+T-Statistic: 2.79726245272
+**********
+Gene: GPHN
+P-Value: 7.84720988225e-05
+T-Statistic: -4.28080876211
+**********
+Gene: RPS20
+P-Value: 0.00821353205252
+T-Statistic: 2.7463490024
+**********
+Gene: UCHL5
+P-Value: 0.00143920050878
+T-Statistic: -3.3626954719
+**********
+Gene: RARRES2
+P-Value: 0.0013821352355
+T-Statistic: 3.37626092707
+**********
+Gene: GPSM2
+P-Value: 0.00175771588474
+T-Statistic: -3.29523304233
+**********
+Gene: AIMP2
+P-Value: 0.00232187432168
+T-Statistic: -3.2000604832
+**********
+Gene: NIF3L1
+P-Value: 0.00331589099309
+T-Statistic: -3.07592981881
+**********
+Gene: KRT24
+P-Value: 0.00885578763705
+T-Statistic: -2.71797983506
+**********
+Gene: SNAPC2
+P-Value: 0.00635952217655
+T-Statistic: 2.84150378017
+**********
+Gene: HYAL4
+P-Value: 0.00708090823646
+T-Statistic: 2.80176683593
+**********
+Gene: KRT23
+P-Value: 0.00710678031769
+T-Statistic: -2.80041234593
+**********
+Gene: DEGS1
+P-Value: 0.00826635343045
+T-Statistic: 2.74394018191
+**********
+Gene: STOML2
+P-Value: 0.00226400711591
+T-Statistic: -3.20875197801
+**********
+Gene: FOXG1
+P-Value: 0.00370674742538
+T-Statistic: 3.03654649718
+**********
+Gene: DCAF17
+P-Value: 0.000225141323102
+T-Statistic: -3.95964154832
+**********
+Gene: PAPSS1
+P-Value: 0.00933653426358
+T-Statistic: -2.69795637912
+**********
+Gene: UBE2G1
+P-Value: 0.000356136889741
+T-Statistic: -3.81630952624
+**********
+Gene: KCTD20
+P-Value: 0.00882120548228
+T-Statistic: -2.71945841877
+**********
+Gene: WDR7
+P-Value: 0.00861235728089
+T-Statistic: -2.72850273938
+**********
+Gene: WRN
+P-Value: 0.00505484265483
+T-Statistic: -2.92536750244
+**********
+Gene: SMR3A
+P-Value: 0.00777062589326
+T-Statistic: 2.76712750582
+**********
+Gene: TNKS
+P-Value: 0.00161980717544
+T-Statistic: -3.3228913983
+**********
+Gene: RPS27A
+P-Value: 0.00620692405397
+T-Statistic: 2.85044155057
+**********
+Gene: SERPINE2
+P-Value: 0.00686043434392
+T-Statistic: 2.81349846003
+**********
+Gene: CUL9
+P-Value: 0.00496614136669
+T-Statistic: 2.93177660049
+**********
+Gene: ATP6V1E1
+P-Value: 0.00179854488741
+T-Statistic: -3.28743793095
+**********
+Gene: TM4SF5
+P-Value: 0.00443598603073
+T-Statistic: 2.97246148745
+**********
+Gene: PRMT2
+P-Value: 0.00115158914221
+T-Statistic: -3.43709988108
+**********
+Gene: RTN4
+P-Value: 0.00247347560867
+T-Statistic: 3.17822247415
+**********
+Gene: BACE2
+P-Value: 0.000880902355215
+T-Statistic: 3.52544422585
+**********
+Gene: POPDC2
+P-Value: 0.00485507259694
+T-Statistic: 2.93995367442
+**********
+Gene: METTL7A
+P-Value: 0.00011385800495
+T-Statistic: -4.1685877774
+**********
+Gene: CEP192
+P-Value: 0.00133166987204
+T-Statistic: -3.3887075036
+**********
+Gene: ARL4D
+P-Value: 0.00287207052704
+T-Statistic: -3.12630839542
+**********
+Gene: PAAF1
+P-Value: 0.00347308634606
+T-Statistic: -3.05959366676
+**********
+Gene: CD70
+P-Value: 0.00820883740522
+T-Statistic: 2.74656378226
+**********
+Gene: FASTKD1
+P-Value: 0.00855452155745
+T-Statistic: -2.73104299648
+**********
+Gene: RQCD1
+P-Value: 0.00452132150151
+T-Statistic: 2.96561676921
+**********
+Gene: NAGLU
+P-Value: 0.00441296726322
+T-Statistic: 2.9743288219
+**********
+Gene: SPCS3
+P-Value: 0.00265897179184
+T-Statistic: 3.15315393982
+**********
+Gene: ERCC6
+P-Value: 0.000806184720522
+T-Statistic: -3.55442078392
+**********
+Gene: PFKM
+P-Value: 0.00381540842186
+T-Statistic: -3.02628807501
+**********
+Gene: ANKMY2
+P-Value: 0.000207469104257
+T-Statistic: -3.98494445458
+**********
+Gene: SSR3
+P-Value: 0.0047332016496
+T-Statistic: 2.94912873458
+**********
+Gene: TPBG
+P-Value: 0.00434228237944
+T-Statistic: 2.98012021732
+**********
+Gene: APOC1
+P-Value: 0.000353620326407
+T-Statistic: 3.81854464143
+**********
+Gene: TMEM70
+P-Value: 0.00339878474461
+T-Statistic: -3.06722708374
+**********
+Gene: SLC25A28
+P-Value: 0.00491899367985
+T-Statistic: 2.93522670449
+**********
+Gene: SMUG1
+P-Value: 0.00230232630748
+T-Statistic: -3.20297349483
+**********
+Gene: LOC729580
+P-Value: 0.00137338045666
+T-Statistic: 3.37838893992
+**********
+Gene: WARS2
+P-Value: 4.29059911225e-05
+T-Statistic: -4.46039496643
+**********
+Gene: RPAP3
+P-Value: 0.00557280058821
+T-Statistic: -2.8899072101
+**********
+Gene: GLB1L
+P-Value: 0.00270270796709
+T-Statistic: 3.14748330021
+**********
+Gene: TINAGL1
+P-Value: 0.000233870475166
+T-Statistic: 3.94784265097
+**********
+Gene: SNX13
+P-Value: 0.00311807181665
+T-Statistic: -3.09755100238
+**********
+Gene: DPM3
+P-Value: 0.0045424366315
+T-Statistic: 2.96394171577
+**********
+Gene: LY6E
+P-Value: 0.00593241537487
+T-Statistic: 2.86704463522
+**********
+Gene: CDH15
+P-Value: 0.00775854700939
+T-Statistic: 2.76770931678
+**********
+Gene: SPATA20
+P-Value: 0.00745536878616
+T-Statistic: 2.78259311073
+**********
+Gene: SUV39H2
+P-Value: 0.00153756183949
+T-Statistic: -3.34046710787
+**********
+Gene: HCFC2
+P-Value: 0.00754949572465
+T-Statistic: -2.77791335487
+**********
+Gene: TDP1
+P-Value: 0.000331740115041
+T-Statistic: -3.83864900157
+**********
+Gene: C9orf5
+P-Value: 0.00517446769996
+T-Statistic: 2.91688761533
+**********
+Gene: C19orf66
+P-Value: 0.000728451598553
+T-Statistic: 3.58742405866
+**********
+Gene: TMEM50A
+P-Value: 0.00862952807613
+T-Statistic: 2.72775158351
+**********
+Gene: EHD3
+P-Value: 0.00238131366469
+T-Statistic: -3.19134269832
+**********
+Gene: XKRY
+P-Value: 0.0001432150654
+T-Statistic: 4.09879751885
+**********
+Gene: HNRNPD
+P-Value: 0.000378066428766
+T-Statistic: 3.79745118844
+**********
+Gene: GLUD2
+P-Value: 0.00975735245776
+T-Statistic: -2.68119087511
+**********
+Gene: ISG20
+P-Value: 0.00163898895049
+T-Statistic: 3.31891392633
+**********
+Gene: C9orf16
+P-Value: 0.00543446835925
+T-Statistic: 2.89906792391
+**********
+Gene: CD59
+P-Value: 0.00358773466421
+T-Statistic: -3.04810990327
+**********
+Gene: RAB30
+P-Value: 0.000953045022896
+T-Statistic: -3.49960936046
+**********
+Gene: RAB38
+P-Value: 0.000670248807452
+T-Statistic: -3.61441708431
+**********
+Gene: CLASP2
+P-Value: 0.00233078871593
+T-Statistic: -3.19873973529
+**********
+Gene: PDIA3
+P-Value: 0.000702497993193
+T-Statistic: 3.59919623054
+**********
+Gene: MUC6
+P-Value: 0.00273749712375
+T-Statistic: 3.14303392669
+**********
+Gene: TSG101
+P-Value: 0.00361174989302
+T-Statistic: -3.04574796149
+**********
+Gene: SFT2D2
+P-Value: 0.0041317751696
+T-Statistic: -2.99790360303
+**********
+Gene: SUZ12P
+P-Value: 0.00759888974504
+T-Statistic: 2.77547908865
+**********
+Gene: CARKD
+P-Value: 0.00886814774868
+T-Statistic: -2.71745265645
+**********
+Gene: C6orf35
+P-Value: 0.00426410616696
+T-Statistic: -2.98662864983
+**********
+Gene: HDAC2
+P-Value: 0.00932249347968
+T-Statistic: 2.69852763146
+**********
+Gene: HDAC4
+P-Value: 0.00929973613644
+T-Statistic: -2.69945519766
+**********
+Gene: ASB8
+P-Value: 0.00771504381182
+T-Statistic: -2.76981170107
+**********
+Gene: CHM
+P-Value: 0.00854011880383
+T-Statistic: -2.73167804851
+**********
+Gene: UQCRFS1
+P-Value: 0.0081131583849
+T-Statistic: -2.75096590454
+**********
+Gene: MED6
+P-Value: 0.000612266951231
+T-Statistic: -3.64363467657
+**********
+Gene: MED7
+P-Value: 0.00580567235547
+T-Statistic: -2.87495198879
+**********
+Gene: TCF7
+P-Value: 0.00822128556617
+T-Statistic: 2.7459945268
+**********
+Gene: GCG
+P-Value: 0.0095921568923
+T-Statistic: 2.68769175483
+**********
+Gene: LRRC37B2
+P-Value: 0.00403576170975
+T-Statistic: -3.00629711518
+**********
+Gene: RPS6KB1
+P-Value: 0.00999384962284
+T-Statistic: -2.67205750785
+**********
+Gene: MED21
+P-Value: 0.00183024905628
+T-Statistic: -3.28149944805
+**********
+Gene: C12orf11
+P-Value: 0.000389057833388
+T-Statistic: -3.78839125321
+**********
+Gene: IFI27
+P-Value: 0.00797711419743
+T-Statistic: 2.75730819971
+**********
+Gene: TXNDC9
+P-Value: 0.00256306337851
+T-Statistic: -3.16590234633
+**********
+Gene: POLR3C
+P-Value: 0.00120280418246
+T-Statistic: -3.42264410571
+**********
+Gene: TMEM176A
+P-Value: 0.0098251750937
+T-Statistic: 2.67855104646
+**********
+Gene: CCDC51
+P-Value: 0.00127559344749
+T-Statistic: -3.4030741019
+**********
+Gene: MADCAM1
+P-Value: 0.00242472616395
+T-Statistic: 3.1851040236
+**********
+Gene: UMPS
+P-Value: 0.00462020001775
+T-Statistic: -2.95783468782
+**********
+Gene: BRD7P3
+P-Value: 0.00470196381849
+T-Statistic: -2.9515158646
+**********
+Gene: TNP1
+P-Value: 0.000192040164846
+T-Statistic: 4.00879909666
+**********
+Gene: RPS8
+P-Value: 0.0015316380483
+T-Statistic: 3.34176714846
+**********
+Gene: NUFIP1
+P-Value: 0.00692065526689
+T-Statistic: 2.81025986773
+**********
+Gene: RPL22
+P-Value: 0.00808164654305
+T-Statistic: 2.75242620583
+**********
+Gene: FXYD6
+P-Value: 0.000317715371058
+T-Statistic: 3.85221776158
+**********
+Gene: PLIN2
+P-Value: 0.0019370593326
+T-Statistic: -3.26218419315
+**********
+Gene: ARPC1A
+P-Value: 0.00732908613348
+T-Statistic: -2.78895790628
+**********
+Gene: RPL9
+P-Value: 0.00589690434919
+T-Statistic: 2.86924421597
+**********
+Gene: WISP2
+P-Value: 0.00603612190848
+T-Statistic: 2.86069011307
+**********
+Gene: P2RY13
+P-Value: 0.00607199594027
+T-Statistic: -2.85851549367
+**********
+Gene: TRIM32
+P-Value: 0.0013171196023
+T-Statistic: -3.39237926964
+**********
+Gene: HP
+P-Value: 0.00571647108317
+T-Statistic: 2.88061368668
+**********
+Gene: TMEM120B
+P-Value: 0.00486882746246
+T-Statistic: -2.93893163274
+**********
+Gene: ADK
+P-Value: 0.00308286811066
+T-Statistic: -3.1015329412
+**********
+Gene: JUNB
+P-Value: 0.0081883315897
+T-Statistic: 2.74750324939
+**********
+Gene: PRPF18
+P-Value: 0.00151231856166
+T-Statistic: -3.34604036085
+**********
+Gene: EMG1
+P-Value: 0.00178323255728
+T-Statistic: -3.29034158552
+**********
+Gene: MOCS3
+P-Value: 0.000536282200354
+T-Statistic: -3.68621839286
+**********
+Gene: NPR2
+P-Value: 0.00391225139945
+T-Statistic: 3.01737287731
+**********
+Gene: CYP2W1
+P-Value: 0.00400485660177
+T-Statistic: 3.00903852537
+**********
+Gene: PABPN1
+P-Value: 0.0011333597708
+T-Statistic: 3.44239305214
+**********
+Gene: ENOX2
+P-Value: 0.00652438186429
+T-Statistic: -2.83206816516
+**********
+Gene: NUAK1
+P-Value: 0.000900291824084
+T-Statistic: 3.51830805543
+**********
+Gene: POLR1C
+P-Value: 0.00126069218384
+T-Statistic: -3.40699256242
+**********
+Gene: WDR44
+P-Value: 0.00133288828947
+T-Statistic: -3.38840176486
+**********
+Gene: GTF2B
+P-Value: 0.00196739837753
+T-Statistic: -3.25688113581
+**********
+Gene: C5orf15
+P-Value: 0.00933280316512
+T-Statistic: 2.69810810274
+**********
+Gene: ASH2L
+P-Value: 0.00218395226008
+T-Statistic: -3.22112755222
+**********
+Gene: ACO1
+P-Value: 0.00559324926529
+T-Statistic: -2.88857098657
+**********
+Gene: RIMS1
+P-Value: 0.00194603168177
+T-Statistic: 3.26060776931
+**********
+Gene: HEATR1
+P-Value: 0.00933327871831
+T-Statistic: -2.69808876146
+**********
+Gene: NUP37
+P-Value: 0.00941480060421
+T-Statistic: -2.69478646391
+**********
+Gene: MICA
+P-Value: 0.00703841752582
+T-Statistic: 2.80400131321
+**********
+Gene: DHRS9
+P-Value: 0.00927511137561
+T-Statistic: -2.70046122689
+**********
+Gene: LMF1
+P-Value: 0.00174255810405
+T-Statistic: 3.29817061448
+**********
+Gene: KITLG
+P-Value: 0.00827279825359
+T-Statistic: -2.74364724783
+**********
+Gene: SLC2A9
+P-Value: 0.00234928912527
+T-Statistic: -3.19601384422
+**********
+Gene: DET1
+P-Value: 0.00142795026799
+T-Statistic: -3.36532901205
+**********
+Gene: EXO1
+P-Value: 0.000641798835117
+T-Statistic: -3.62843765366
+**********
+Gene: CEACAM1
+P-Value: 0.00272484785554
+T-Statistic: 3.14464553168
+**********
+Gene: CEACAM5
+P-Value: 0.00503619511914
+T-Statistic: -2.92670614875
+**********
+Gene: RPL27AP
+P-Value: 0.000810695412054
+T-Statistic: 3.55260020507
+**********
+Gene: MOCOS
+P-Value: 6.56254765121e-06
+T-Statistic: -5.00336647599
+**********
+Gene: OXSM
+P-Value: 0.000863339171999
+T-Statistic: -3.532038677
+**********
+Gene: SKIV2L2
+P-Value: 0.00020848879251
+T-Statistic: -3.9834288828
+**********
+Gene: COBL
+P-Value: 0.00390817082103
+T-Statistic: -3.01774434711
+**********
+Gene: PRKY
+P-Value: 0.0097435094457
+T-Statistic: -2.68173174583
+**********
+Gene: ASF1A
+P-Value: 0.00857497559849
+T-Statistic: -2.73014281581
+**********
+Gene: ZNF207
+P-Value: 0.00256855238271
+T-Statistic: -3.16516072891
+**********
+Gene: SETD4
+P-Value: 0.000378918094084
+T-Statistic: -3.79674019443
+**********
+Gene: FRZB
+P-Value: 0.00264214828121
+T-Statistic: 3.15535857345
+**********
+Gene: LOC100287204
+P-Value: 0.00170136534343
+T-Statistic: 3.30627751474
+**********
+Gene: KRT83
+P-Value: 0.00513793538415
+T-Statistic: 2.91945779614
+**********
+Gene: CD180
+P-Value: 0.00674814839666
+T-Statistic: 2.81960781292
+**********
+Gene: WAS
+P-Value: 0.00458860062186
+T-Statistic: 2.96030466541
+**********
+Gene: CYP1A2
+P-Value: 0.00433941772479
+T-Statistic: 2.98035677418
+**********
+Gene: STX11
+P-Value: 0.00596857765263
+T-Statistic: 2.86481721895
+**********
+Gene: C9orf78
+P-Value: 0.00224387848169
+T-Statistic: 3.21182436111
+**********
+Gene: CUTC
+P-Value: 0.00441875944675
+T-Statistic: -2.97385809373
+**********
+Gene: IFITM1
+P-Value: 0.00652168335775
+T-Statistic: 2.83222082795
+**********
+Gene: MOSPD3
+P-Value: 0.00504593547383
+T-Statistic: 2.92600634643
+**********
+Gene: STRN
+P-Value: 0.000178519518562
+T-Statistic: -4.03127804835
+**********
+Gene: HPX
+P-Value: 0.00342853274583
+T-Statistic: 3.06415233331
+**********
+Gene: NOC3L
+P-Value: 0.00584651868521
+T-Statistic: -2.87238630397
+**********
+Gene: LCK
+P-Value: 0.000560762870256
+T-Statistic: 3.67190012998
+**********
+Gene: LEPROT
+P-Value: 0.000216557256646
+T-Statistic: -3.97168300074
+**********
+Gene: RNASE2
+P-Value: 0.00135022351858
+T-Statistic: 3.38408030205
+**********
+Gene: DARS2
+P-Value: 0.00495258130889
+T-Statistic: -2.932765747
+**********
+Gene: SDC4
+P-Value: 4.21420550245e-05
+T-Statistic: 4.46569617016
+**********
+Gene: ELOVL1
+P-Value: 0.000912078069595
+T-Statistic: 3.51404144361
+**********
+Gene: CWF19L1
+P-Value: 0.00152702219166
+T-Statistic: -3.34278345351
+**********
+Gene: DUSP2
+P-Value: 0.00173562863046
+T-Statistic: 3.2995215988
+**********
+Gene: MTF2
+P-Value: 0.00498102351958
+T-Statistic: -2.93069389963
+**********
+Gene: TMEM106B
+P-Value: 0.00797398736695
+T-Statistic: -2.7574551381
+**********
+Gene: CNP
+P-Value: 0.00767992395316
+T-Statistic: 2.77151692749
+**********
+Gene: ZNF160
+P-Value: 0.00315930503101
+T-Statistic: 3.09294030198
+**********
+Gene: SCG5
+P-Value: 0.00294714293276
+T-Statistic: 3.11729501845
+**********
+Gene: SCN4A
+P-Value: 0.000702211365872
+T-Statistic: 3.59932854609
+**********
+Gene: TADA2L
+P-Value: 0.00371342278331
+T-Statistic: -3.03590824076
+**********
+Gene: VEGFA
+P-Value: 0.00345044259129
+T-Statistic: 3.06190366198
+**********
+Gene: VEGFC
+P-Value: 0.00063550428317
+T-Statistic: 3.63161989809
+**********
+Gene: AKAP10
+P-Value: 0.00927171449201
+T-Statistic: -2.70060019676
+**********
+Gene: ARID5A
+P-Value: 0.000322822339124
+T-Statistic: 3.84721129417
+**********
+Gene: EMID1
+P-Value: 0.0046281481437
+T-Statistic: 2.95721589611
+**********
+Gene: AARSD1
+P-Value: 0.00374319091603
+T-Statistic: -3.0330749882
+**********
+Gene: EXOC2
+P-Value: 0.00435220133435
+T-Statistic: -2.97930225432
+**********
+Gene: EXOC1
+P-Value: 0.00150708920306
+T-Statistic: -3.34720591688
+**********
+Gene: IFI44
+P-Value: 0.00556016209488
+T-Statistic: 2.89073535198
+**********
+Gene: PSMD6
+P-Value: 0.00516105858796
+T-Statistic: -2.91782903049
+**********
+Gene: ARHGEF6
+P-Value: 0.00463122914798
+T-Statistic: 2.95697629435
+**********
+Gene: COTL1
+P-Value: 0.00629258576652
+T-Statistic: 2.84539957528
+**********
+Gene: SPRY4
+P-Value: 0.00455116990384
+T-Statistic: 2.9632510287
+**********
+Gene: C6orf15
+P-Value: 0.00930370741574
+T-Statistic: 2.69929318245
+**********
+Gene: DOPEY1
+P-Value: 0.00226132146045
+T-Statistic: -3.2091604184
+**********
+Gene: CD1E
+P-Value: 0.000952549782839
+T-Statistic: 3.49978026976
+**********
+Gene: RACGAP1
+P-Value: 0.00438737317949
+T-Statistic: -2.97641575954
+**********
+Gene: MAT2B
+P-Value: 0.00830857074962
+T-Statistic: -2.74202510134
+**********
+Gene: PXMP2
+P-Value: 0.0087630570603
+T-Statistic: 2.72195664221
+**********
+Gene: IMMT
+P-Value: 0.00118914286978
+T-Statistic: -3.42644204468
+**********
+Gene: GPR39
+P-Value: 0.00330497004273
+T-Statistic: -3.07709152649
+**********
+Gene: ZC3HAV1
+P-Value: 0.00170674109775
+T-Statistic: 3.30520907975
+**********
+Gene: PGGT1B
+P-Value: 0.00126839189556
+T-Statistic: -3.40496237715
+**********
+Gene: RBM38
+P-Value: 0.00826987016681
+T-Statistic: 2.743780311
+**********
+Gene: PARP2
+P-Value: 0.00106239535211
+T-Statistic: -3.46380007923
+**********
+Gene: SLC10A1
+P-Value: 0.00329694820258
+T-Statistic: 3.07794713616
+**********
+Gene: GPA33
+P-Value: 0.00121226871158
+T-Statistic: -3.4200368531
+**********
+Gene: DIP2A
+P-Value: 0.00406001650261
+T-Statistic: 3.00415930545
+**********
+Gene: DCLRE1C
+P-Value: 0.00955996772793
+T-Statistic: 2.68897041998
+**********
+Gene: ARID3B
+P-Value: 0.000499140334317
+T-Statistic: 3.70918474089
+**********
+Gene: DARS
+P-Value: 0.00102829774216
+T-Statistic: -3.47457433458
+**********
+Gene: C19orf42
+P-Value: 0.00643430572271
+T-Statistic: -2.83719589654
+**********
+Gene: AHCYL2
+P-Value: 0.00304608971232
+T-Statistic: -3.10573879516
+**********
+Gene: HTR4
+P-Value: 0.000222834170958
+T-Statistic: 3.96283381401
+**********
+Gene: LOC647070
+P-Value: 0.00146513006711
+T-Statistic: 3.35669923488
+**********
+Gene: SPOCK2
+P-Value: 0.000516806796731
+T-Statistic: 3.69806366716
+**********
+Gene: ELL3
+P-Value: 0.00882027108009
+T-Statistic: -2.71949844361
+**********
+Gene: GCLC
+P-Value: 0.0011395955191
+T-Statistic: -3.44057336145
+**********
+Gene: UBQLN4
+P-Value: 0.00406108704495
+T-Statistic: 3.00406522312
+**********
+Gene: UBL5
+P-Value: 0.00932139713262
+T-Statistic: 2.6985722698
+**********
+Gene: FKBP5
+P-Value: 0.00669444112456
+T-Statistic: -2.8225632518
+**********
+Gene: FKBP6
+P-Value: 0.00262836511188
+T-Statistic: 3.15717464105
+**********
+Gene: FKBP2
+P-Value: 0.00216575385129
+T-Statistic: 3.22400039967
+**********
+Gene: RMND1
+P-Value: 0.00770946798839
+T-Statistic: -2.77008195394
+**********
+Gene: PANK4
+P-Value: 0.00163353244491
+T-Statistic: -3.32004086808
+**********
+Gene: PCYOX1L
+P-Value: 0.00415131434653
+T-Statistic: -2.99621779859
+**********
+Gene: RXRA
+P-Value: 0.00622132917633
+T-Statistic: -2.84958918965
+**********
+Gene: ABCA7
+P-Value: 0.00604561006987
+T-Statistic: 2.8601137957
+**********
+Gene: RPGRIP1L
+P-Value: 0.00146725947365
+T-Statistic: -3.35621128551
+**********
+Gene: DKK1
+P-Value: 0.00331747622235
+T-Statistic: -3.07576148917
+**********
+Gene: KIF13B
+P-Value: 0.00419732554251
+T-Statistic: -2.99227709365
+**********
+Gene: LILRA6
+P-Value: 0.00333466068162
+T-Statistic: 3.07394155354
+**********
+Gene: POF1B
+P-Value: 0.00191130680865
+T-Statistic: -3.26674745212
+**********
+Gene: ZNF264
+P-Value: 0.00748373578039
+T-Statistic: 2.78117706603
+**********
+Gene: C17orf48
+P-Value: 0.0030607898138
+T-Statistic: -3.10405205794
+**********
+Gene: ZNF706
+P-Value: 0.00111095852465
+T-Statistic: -3.44900954305
+**********
+Gene: DERL2
+P-Value: 0.00050680203977
+T-Statistic: 3.70431608684
+**********
+Gene: MLLT10
+P-Value: 0.00902423440272
+T-Statistic: -2.71085275087
+**********
+Gene: CD99
+P-Value: 0.0010067810724
+T-Statistic: 3.48154957328
+**********
+Gene: GUF1
+P-Value: 0.00976856373853
+T-Statistic: -2.68075334591
+**********
+Gene: CST4
+P-Value: 0.00312873136901
+T-Statistic: -3.09635359756
+**********
+Gene: SOX9
+P-Value: 0.00178641479887
+T-Statistic: 3.28973620715
+**********
+Gene: CEBPZ
+P-Value: 0.00976184041588
+T-Statistic: 2.68101567368
+**********
+Gene: KLRC3
+P-Value: 0.00788942587132
+T-Statistic: 2.76144917408
+**********
+Gene: INTS7
+P-Value: 0.00323660180949
+T-Statistic: -3.08444691804
+**********
+Gene: INTS9
+P-Value: 0.00449861236555
+T-Statistic: -2.96742642711
+**********
+Gene: MPP5
+P-Value: 0.00793861112646
+T-Statistic: -2.7591212716
+**********
+Gene: ETFDH
+P-Value: 0.00171538516321
+T-Statistic: -3.30349772047
+**********
+Gene: NIN
+P-Value: 0.00542468987706
+T-Statistic: 2.89972364299
+**********
+Gene: CCKAR
+P-Value: 0.00231862123313
+T-Statistic: 3.2005436471
+**********
+Gene: FAM13A
+P-Value: 0.00649469390798
+T-Statistic: -2.83375092652
+**********
+Gene: LOC400084
+P-Value: 0.00290570000863
+T-Statistic: 3.1222437466
+**********
+Gene: GBP1
+P-Value: 0.00201203044109
+T-Statistic: 3.24921840237
+**********
+Gene: STAT1
+P-Value: 0.00422346067148
+T-Statistic: 2.99005661548
+**********
+Gene: PDE4C
+P-Value: 0.0069728585797
+T-Statistic: 2.80747344599
+**********
+Gene: SUCLG2
+P-Value: 0.00269259397386
+T-Statistic: -3.14878693073
+**********
+Gene: ABCC5
+P-Value: 0.0066071169196
+T-Statistic: -2.8274157037
+**********
+Gene: RP11-345P4.4
+P-Value: 0.00941911806195
+T-Statistic: -2.69461230417
+**********
+Gene: CSNK2A2
+P-Value: 0.00918813692874
+T-Statistic: 2.704034239
+**********
+Gene: PTMA
+P-Value: 0.00430994304339
+T-Statistic: 2.9827992197
+**********
+Gene: CPS1
+P-Value: 0.00777842641326
+T-Statistic: -2.76675221609
+**********
+Gene: IFNA7
+P-Value: 0.00775443775238
+T-Statistic: 2.76790744015
+**********
+Gene: GMPR2
+P-Value: 0.00125506773229
+T-Statistic: -3.40848301645
+**********
